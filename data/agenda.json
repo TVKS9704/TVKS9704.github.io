@@ -10,16 +10,6 @@
     "meer_info_url": "https://www.sintpaulusantwerpen.be/activiteit/orkestmis-voor-maria-tenhemelopneming-3/"
   },
   {
-    "titel": "Parsifal - R. Wagner",
-    "foto_url": "https://obv-media.s3.eu-central-1.amazonaws.com/a5cP6000002qEDpIAM_1536x864.jpg",
-    "extra": "Rol: Vierte Knappe",
-    "datum": "dinsdag 23 september 2025",
-    "tijd": "",
-    "locatie": "Opera Gent",
-    "artiesten": "",
-    "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2025-2026/parsifal"
-  },
-  {
     "titel": "TEST",
     "foto_url": "img/evenementen/pexels-eberhardgross-1367192 (1)_1.jpg",
     "extra": "TEST",
@@ -28,6 +18,16 @@
     "locatie": "",
     "artiesten": "",
     "meer_info_url": ""
+  },
+  {
+    "titel": "Parsifal - R. Wagner",
+    "foto_url": "https://obv-media.s3.eu-central-1.amazonaws.com/a5cP6000002qEDpIAM_1536x864.jpg",
+    "extra": "Rol: Vierte Knappe",
+    "datum": "dinsdag 23 september 2025",
+    "tijd": "",
+    "locatie": "Opera Gent",
+    "artiesten": "",
+    "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2025-2026/parsifal"
   },
   {
     "titel": "Liebesliederwalzer - J. Brahms",
