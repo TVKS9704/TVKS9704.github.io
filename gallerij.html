@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <title>Timothy Veryser - Galerij</title>
+  <link href="https://fonts.googleapis.com/css?family=Cinzel:400,700&display=swap" rel="stylesheet" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="main.css" />
+  <link rel="icon" type="image/x-icon" href="img/logo/favicon.ico" />
+</head>
+<body>
+  <header>
+    <img
+      src="img/logo/android-chrome-192x192.png"
+      alt="Logo Timothy Veryser"
+      class="site-logo"
+      width="48" height="48"
+    />
+    <h1>Timothy Veryser</h1>
+  </header>
+
+  <nav role="navigation" aria-label="Hoofdmenu">
+    <a href="index.html">Home</a>
+    <a href="biografie.html">Biografie</a>
+    <a href="agenda.html">Agenda</a>
+    <a href="media.html">Media</a>
+    <a href="gallery.html" aria-current="page">Galerij</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <section class="hero">
+    <h2>Galerij</h2>
+  </section>
+
+  <!-- Fotogalerij sectie -->
+  <section class="gallery" aria-label="Fotogalerij">
+    <div class="gallery-grid">
+      <!-- Hier je eigen foto's -->
+      <img src="img/gallery/foto1.jpg" alt="foto1" tabindex="0" />
+      <img src="img/gallery/foto2.jpg" alt="foto2" tabindex="0" />
+      <img src="img/gallery/foto3.jpg" alt="foto3" tabindex="0" />
+      <img src="img/gallery/foto4.jpg" alt="foto4" tabindex="0" />
+      <img src="img/gallery/foto6.jpg" alt="foto6" tabindex="0" />
+      <img src="img/gallery/foto14.jpg" alt="foto14" tabindex="0" />
+      <img src="img/gallery/foto5.jpg" alt="foto5" tabindex="0" />
+      <img src="img/gallery/foto8.jpeg" alt="foto8" tabindex="0" />
+      <img src="img/gallery/foto15.png" alt="foto15" tabindex="0" />
+      <img src="img/gallery/foto7.jpg" alt="foto7" tabindex="0" />
+      <img src="img/gallery/foto10.jpg" alt="foto10" tabindex="0" />
+      <img src="img/gallery/foto11.jpg" alt="foto11" tabindex="0" />
+      <img src="img/gallery/foto12.jpg" alt="foto12" tabindex="0" />
+      <img src="img/gallery/foto13.jpg" alt="foto13" tabindex="0" />
+      <img src="img/gallery/foto9.jpg" alt="foto9" tabindex="0" />
+
+    </div>
+  </section>
+
+  <footer>
+    &copy; 2025 Timothy Veryser. Alle rechten voorbehouden.
+  </footer>
+
+  <!-- Lightbox overlay voor vergroting -->
+  <div id="lightbox-overlay" tabindex="-1" aria-hidden="true">
+    <span id="lightbox-close" title="Sluiten" aria-label="Sluit vergrote afbeelding">&times;</span>
+    <img id="lightbox-img" src="" alt="" />
+  </div>
+
+  <script>
+    // Lightbox functionaliteit
+    const lightboxOverlay = document.getElementById('lightbox-overlay');
+    const lightboxImg = document.getElementById('lightbox-img');
+    const lightboxClose = document.getElementById('lightbox-close');
+
+    document.querySelectorAll('.gallery-grid img').forEach(img => {
+      img.addEventListener('click', () => {
+        lightboxImg.src = img.src;
+        lightboxImg.alt = img.alt;
+        lightboxOverlay.classList.add('active');
+        lightboxOverlay.setAttribute('aria-hidden', 'false');
+        lightboxClose.focus();
+      });
+      img.addEventListener('keydown', (e) => {
+        if (e.key === "Enter" || e.key === " ") {
+          e.preventDefault();
+          img.click();
+        }
+      });
+    });
+
+    function closeLightbox() {
+      lightboxOverlay.classList.remove('active');
+      lightboxImg.src = "";
+      lightboxOverlay.setAttribute('aria-hidden', 'true');
+    }
+
+    lightboxClose.addEventListener('click', closeLightbox);
+
+    lightboxOverlay.addEventListener('click', (e) => {
+      if (e.target === lightboxOverlay) {
+        closeLightbox();
+      }
+    });
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === "Escape" && lightboxOverlay.classList.contains('active')) {
+        closeLightbox();
+      }
+    });
+  </script>
+</body>
+</html>

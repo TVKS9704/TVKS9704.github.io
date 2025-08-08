@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <title>Timothy Veryser - Agenda</title>
+  <link href="https://fonts.googleapis.com/css?family=Cinzel:400,700&display=swap" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="main.css" />
+  <link rel="icon" type="image/x-icon" href="img/logo/favicon.ico" />
+</head>
+<body>
+  <header>
+    <img
+      src="img/logo/android-chrome-192x192.png"
+      alt="Logo Timothy Veryser"
+      class="site-logo"
+      width="48" height="48"
+    />
+    <h1>Timothy Veryser</h1>
+  </header>
+
+  <nav role="navigation" aria-label="Hoofdmenu">
+    <a href="index.html">Home</a>
+    <a href="biografie.html">Biografie</a>
+    <a href="agenda.html" aria-current="page">Agenda</a>
+    <a href="media.html">Media</a>
+    <a href="gallerij.html">Gallerij</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <main>
+    <section class="hero" aria-label="Binnenkomende optredens">
+      <h2>Agenda</h2>
+    </section>
+
+    <!-- Lege container die met JS wordt gevuld -->
+    <section class="optreden-lijst" aria-label="Uitgelichte concerten" id="agenda-container">
+      <p>Agenda wordt geladen...</p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Timothy Veryser. Alle rechten voorbehouden.
+  </footer>
+
+  <!-- Script om agenda in te laden -->
+  <script>
+    fetch('data/agenda.json')
+      .then(response => {
+        if (!response.ok) throw new Error("Kan agenda.json niet laden");
+        return response.json();
+      })
+      .then(data => {
+        const container = document.getElementById('agenda-container');
+        container.innerHTML = ''; // leegmaken
+
+        data.forEach(event => {
+          const article = document.createElement('article');
+          article.classList.add('highlighted-event');
+
+          article.innerHTML = `
+            <h3>${event.titel}</h3>
+            <img src="${event.foto_url}" alt="${event.titel}" class="event-poster" />
+            <div class="event-info">
+              ${event.extra ? `<p>${event.extra}</p>` : ""}
+              ${event.datum ? `<p><strong>Datum:</strong> ${event.datum}</p>` : ""}
+              ${event.tijd ? `<p><strong>Tijd:</strong> ${event.tijd}</p>` : ""}
+              ${event.locatie ? `<p><strong>Locatie:</strong> ${event.locatie}</p>` : ""}
+              ${event.artiesten ? `<p><strong>Uitvoerders:</strong> ${event.artiesten}</p>` : ""}
+              <a class="cta-button" href="${event.meer_info_url}" target="_blank" aria-label="Meer info">Meer info</a>
+            </div>
+          `;
+
+          container.appendChild(article);
+        });
+
+        if (data.length === 0) {
+          container.innerHTML = '<p>Er staan momenteel geen geplande optredens.</p>';
+        }
+      })
+      .catch(err => {
+        console.error('Fout bij laden agenda:', err);
+        document.getElementById('agenda-container').innerHTML = '<p>Kon agenda niet laden.</p>';
+      });
+  </script>
+</body>
+</html>
