@@ -61,16 +61,6 @@
   },
   {
     "titel": "TEST123",
-    "foto_url": "img/evenementen/pexels-christian-heitz-285904-842711.jpg",
-    "extra": "google.com",
-    "datum": "8 aug",
-    "tijd": "20:00",
-    "locatie": "thuis",
-    "artiesten": "kwinten",
-    "meer_info_url": "youtube.com"
-  },
-  {
-    "titel": "TEST123",
     "foto_url": "img/evenementen/pexels-asadphoto-1456291.jpg",
     "extra": "8 aug",
     "datum": "8 aug",
