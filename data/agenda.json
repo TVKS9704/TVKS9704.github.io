@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Messe solennelle - C. Gounod",
-    "foto_url": "https://www.sintpaulusantwerpen.be/wp-content/uploads/2021/08/Jubileumjaar-Mariaprocessie-met-scheldewijding-158-002-e1627911754274.jpg",
-    "extra": "Orkestmis Antwerpen",
-    "datum": "vrijdag 15 augustus 2025",
-    "tijd": "",
-    "locatie": "Sint-Pauluskerk Antwerpen",
-    "artiesten": "Timothy Veryser (tenor), An De Ridder (sopraan), Charles Dekeyser (bas)",
-    "meer_info_url": "https://www.sintpaulusantwerpen.be/activiteit/orkestmis-voor-maria-tenhemelopneming-3/"
-  },
-  {
     "titel": "TEST",
     "foto_url": "img/evenementen/pexels-eberhardgross-1367192 (1)_1.jpg",
     "extra": "TEST",
@@ -18,6 +8,16 @@
     "locatie": "",
     "artiesten": "",
     "meer_info_url": ""
+  },
+  {
+    "titel": "Messe solennelle - C. Gounod",
+    "foto_url": "https://www.sintpaulusantwerpen.be/wp-content/uploads/2021/08/Jubileumjaar-Mariaprocessie-met-scheldewijding-158-002-e1627911754274.jpg",
+    "extra": "Orkestmis Antwerpen",
+    "datum": "vrijdag 15 augustus 2025",
+    "tijd": "",
+    "locatie": "Sint-Pauluskerk Antwerpen",
+    "artiesten": "Timothy Veryser (tenor), An De Ridder (sopraan), Charles Dekeyser (bas)",
+    "meer_info_url": "https://www.sintpaulusantwerpen.be/activiteit/orkestmis-voor-maria-tenhemelopneming-3/"
   },
   {
     "titel": "Parsifal - R. Wagner",
