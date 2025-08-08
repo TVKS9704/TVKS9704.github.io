@@ -43,45 +43,53 @@
     &copy; 2025 Timothy Veryser. Alle rechten voorbehouden.
   </footer>
 
-  <!-- Script om agenda in te laden -->
+  <!-- Nooit meer oude agenda.json in cache: altijd vers inladen! -->
   <script>
-    fetch('data/agenda.json')
-      .then(response => {
-        if (!response.ok) throw new Error("Kan agenda.json niet laden");
-        return response.json();
-      })
-      .then(data => {
-        const container = document.getElementById('agenda-container');
-        container.innerHTML = ''; // leegmaken
+    function loadAgenda() {
+      // Voeg een timestamp toe aan de URL als cache-buster
+      const agendaUrl = 'data/agenda.json?v=' + new Date().getTime();
 
-        data.forEach(event => {
-          const article = document.createElement('article');
-          article.classList.add('highlighted-event');
+      fetch(agendaUrl)
+        .then(response => {
+          if (!response.ok) throw new Error("Kan agenda.json niet laden");
+          return response.json();
+        })
+        .then(data => {
+          const container = document.getElementById('agenda-container');
+          container.innerHTML = '';
 
-          article.innerHTML = `
-            <h3>${event.titel}</h3>
-            <img src="${event.foto_url}" alt="${event.titel}" class="event-poster" />
-            <div class="event-info">
-              ${event.extra ? `<p>${event.extra}</p>` : ""}
-              ${event.datum ? `<p><strong>Datum:</strong> ${event.datum}</p>` : ""}
-              ${event.tijd ? `<p><strong>Tijd:</strong> ${event.tijd}</p>` : ""}
-              ${event.locatie ? `<p><strong>Locatie:</strong> ${event.locatie}</p>` : ""}
-              ${event.artiesten ? `<p><strong>Uitvoerders:</strong> ${event.artiesten}</p>` : ""}
-              <a class="cta-button" href="${event.meer_info_url}" target="_blank" aria-label="Meer info">Meer info</a>
-            </div>
-          `;
+          data.forEach(event => {
+            const article = document.createElement('article');
+            article.classList.add('highlighted-event');
+            article.innerHTML = `
+              <h3>${event.titel}</h3>
+              <img src="${event.foto_url}" alt="${event.titel}" class="event-poster" />
+              <div class="event-info">
+                ${event.extra ? `<p>${event.extra}</p>` : ""}
+                ${event.datum ? `<p><strong>Datum:</strong> ${event.datum}</p>` : ""}
+                ${event.tijd ? `<p><strong>Tijd:</strong> ${event.tijd}</p>` : ""}
+                ${event.locatie ? `<p><strong>Locatie:</strong> ${event.locatie}</p>` : ""}
+                ${event.artiesten ? `<p><strong>Uitvoerders:</strong> ${event.artiesten}</p>` : ""}
+                ${event.meer_info_url ? `<a class="cta-button" href="${event.meer_info_url}" target="_blank" aria-label="Meer info">Meer info</a>` : ""}
+              </div>
+            `;
+            container.appendChild(article);
+          });
 
-          container.appendChild(article);
+          if (data.length === 0) {
+            container.innerHTML = '<p>Er staan momenteel geen geplande optredens.</p>';
+          }
+        })
+        .catch(err => {
+          console.error('Fout bij laden agenda:', err);
+          document.getElementById('agenda-container').innerHTML = '<p>Kon agenda niet laden.</p>';
         });
+    }
 
-        if (data.length === 0) {
-          container.innerHTML = '<p>Er staan momenteel geen geplande optredens.</p>';
-        }
-      })
-      .catch(err => {
-        console.error('Fout bij laden agenda:', err);
-        document.getElementById('agenda-container').innerHTML = '<p>Kon agenda niet laden.</p>';
-      });
+    // Laad direct bij openen en evt. later opnieuw (voor development/test)
+    loadAgenda();
+    // Voor testers: je kunt de volgende regel activeren om bv. om de 30 seconden automatisch te verversen:
+    // setInterval(loadAgenda, 30000);
   </script>
 </body>
 </html>
