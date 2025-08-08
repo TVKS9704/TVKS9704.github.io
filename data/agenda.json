@@ -20,16 +20,6 @@
     "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2025-2026/parsifal"
   },
   {
-    "titel": "Liebesliederwalzer - J. Brahms",
-    "foto_url": "https://d3ew0l5caq1ulf.cloudfront.net/picture/14899/og/liebesliederwalzer.jpg",
-    "extra": "",
-    "datum": "7-8 oktober 2025",
-    "tijd": "20:00",
-    "locatie": "Fioccozaal (Ateliers van de Munt)",
-    "artiesten": "Timothy Veryser (tenor), Lisa Willems (sopraan), Marie-Juliette Ghazarian (alt), Lucas Cortoos (bas)",
-    "meer_info_url": "https://www.lamonnaiedemunt.be/nl/program/3582-liebesliederwalzer"
-  },
-  {
     "titel": "TEST",
     "foto_url": "img/evenementen/pexels-eberhardgross-1367192 (1)_1.jpg",
     "extra": "TEST",
@@ -38,6 +28,16 @@
     "locatie": "",
     "artiesten": "",
     "meer_info_url": ""
+  },
+  {
+    "titel": "Liebesliederwalzer - J. Brahms",
+    "foto_url": "https://d3ew0l5caq1ulf.cloudfront.net/picture/14899/og/liebesliederwalzer.jpg",
+    "extra": "",
+    "datum": "7-8 oktober 2025",
+    "tijd": "20:00",
+    "locatie": "Fioccozaal (Ateliers van de Munt)",
+    "artiesten": "Timothy Veryser (tenor), Lisa Willems (sopraan), Marie-Juliette Ghazarian (alt), Lucas Cortoos (bas)",
+    "meer_info_url": "https://www.lamonnaiedemunt.be/nl/program/3582-liebesliederwalzer"
   },
   {
     "titel": "Parsifal - R. Wagner",
