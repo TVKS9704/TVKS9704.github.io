@@ -68,5 +68,15 @@
     "locatie": "thuis",
     "artiesten": "kwinten",
     "meer_info_url": "youtube.com"
+  },
+  {
+    "titel": "TEST123",
+    "foto_url": "img/evenementen/pexels-asadphoto-1456291.jpg",
+    "extra": "8 aug",
+    "datum": "8 aug",
+    "tijd": "14:34",
+    "locatie": "THUIS",
+    "artiesten": "KWINTEN",
+    "meer_info_url": "google.com"
   }
 ]
