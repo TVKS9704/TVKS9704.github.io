@@ -58,5 +58,15 @@
     "locatie": "Theaterzaal Maupertuis Zaventem",
     "artiesten": "Timothy Veryser (tenor), Emma Posman (sopraan), Lara Cannaert (mezzo), Lucas Cortoos (bas)",
     "meer_info_url": "https://www.zaventem.be/activiteiten/detail/3650/40-jaar-omnia-cantica-symphony-of-praise"
+  },
+  {
+    "titel": "TEST123",
+    "foto_url": "img/evenementen/pexels-arnie-chou-304906-1229042_1.jpg",
+    "extra": "google.com",
+    "datum": "8 aug",
+    "tijd": "20:00",
+    "locatie": "thuis",
+    "artiesten": "kwinten",
+    "meer_info_url": "youtube.com"
   }
 ]
