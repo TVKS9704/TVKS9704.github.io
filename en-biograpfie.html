@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Timothy Veryser - Biography</title>
+  <link href="https://fonts.googleapis.com/css?family=Cinzel:400,700&display=swap" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="main.css" />
+  <link rel="icon" type="image/x-icon" href="img/logo/favicon.ico" />
+  
+</head>
+<body>
+  <header>
+    <img
+      src="img/logo/android-chrome-192x192.png"
+      alt="Logo Timothy Veryser"
+      class="site-logo"
+      width="48" height="48"
+    />
+    <h1>Timothy Veryser</h1>
+    <div class="language-switch">
+        <a href="biografie.html" title="Bekijk in Nederlands">🇳🇱 NL</a>
+    </div>
+  </header>
+
+  <!-- Hamburger menu button -->
+  <button class="menu-toggle" aria-label="Open menu">&#9776;</button>
+
+  <nav role="navigation" aria-label="Main menu">
+    <a href="en-index.html">Home</a>
+    <a href="en-biograpfie.html" aria-current="page">Biography</a>
+    <a href="en-agenda.html">Schedule</a>
+    <a href="en-media.html">Media</a>
+    <a href="en-galerij.html">Gallery</a>
+    <a href="en-contact.html">Contact</a>
+  </nav>
+
+  <main>
+    <section class="hero biografie-met-achtergrond" aria-label="Biography">
+      <h2>Biography</h2>
+      <p>
+        Belgian tenor Timothy Veryser (°1997) began his musical journey with accordion, piano, and music theory lessons from his grandfather René Van Roye. At the age of eight, he started attending classes at the Stedelijke Muziekacademie Clemens Non Papa in Diksmuide. From the age of eighteen, he studied singing with Erika Pauwels in Ghent.
+      </p>
+      <p>
+        After successfully completing his studies in Global Business Management, he decided to take the plunge. In 2019, he began studying at the Royal Conservatory of Ghent as a student of Christianne Stotijn. From 2021 onwards, he continued his studies with Hendrickje Van Kerckhove. He graduated with highest distinction in June 2024. Since 2022, he has been a member of the MM Academy of La Monnaie in Brussels, where he has been an MM Soloist since this season.
+      </p>
+      <p>
+        Roles he has already performed include Gernando in Haydn’s <em>L’isola disabitata</em>, Donald in Moore’s <em>Gallantry</em>, and Malo in the world premiere of Beethoven’s <em>Vestas Feuer</em> in Zutphen. In February 2023, he won the First Prize and Audience Prize at the XIV Concours Lyrique International Bell’Arte. He has made his debut as evangelist and tenor soloist in J.S. Bach’s <em>Markus Passion</em>, Michael Haydn’s and Mozart’s <em>Requiem</em>, Rossini’s <em>Petite Messe Solennelle</em>, and Bach’s <em>Magnificat</em>.
+      </p>
+      <p>
+        In the summer of 2023, he made his Austrian debut at the Bregenz Festival as Schmidt in <em>Werther</em>, and in November 2023, he made his solo debut at La Monnaie in an adaptation of <em>La Muette de Portici</em> as Masaniello/Alfonso in a co-production with Walpurgis. He then made his debut for Opera Ballet Vlaanderen as Vater in Kurt Weill’s <em>Die Sieben Todsünden</em>.
+      </p>
+      <p>
+        He has collaborated with conductors such as Claire Levacher, Alejo Pérez, Gaetano Lo Coco, and Nathalie Stutzmann, and has taken masterclasses with, among others, Brigitte Fassbaender, Ed Lyon, Marcel Reijans, Martin Winkler, and Nicky Spence. Last year, he performed the title role in Gluck’s <em>Orphée et Eurydice</em>, followed by his debut as tenor soloist in Bach’s <em>St Matthew Passion</em>. In May, he also performed for the first time the tenor solo in Beethoven’s Ninth Symphony on its 200th anniversary with the MSFO under Lars Corijn.
+      </p>
+      <p>
+        At the end of 2024, he returned to Opera Ballet Vlaanderen in the role of the Third Jew in <em>Salome</em>. In addition, he performed twice at the Lotto Arena during the Gymgala 2024. In the coming season, he will again appear with Opera Ballet Vlaanderen in Wagner’s <em>Parsifal</em>, at Bozar and Concertgebouw Brugge for oratorio works, and will make his debut at the Wiener Festwochen in June 2026.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Timothy Veryser. All rights reserved.
+  </footer>
+
+  <!-- Hamburger menu script -->
+  <script>
+    const menuBtn = document.querySelector('.menu-toggle');
+    const nav = document.querySelector('nav');
+
+    if(menuBtn && nav) {
+      menuBtn.addEventListener('click', () => {
+        nav.classList.toggle('active');
+      });
+      nav.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', () => {
+          nav.classList.remove('active');
+        });
+      });
+    }
+  </script>
+</body>
+</html>

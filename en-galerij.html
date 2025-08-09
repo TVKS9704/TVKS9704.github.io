@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Timothy Veryser - Galerij</title>
+  <title>Timothy Veryser - Gallery</title>
   <link href="https://fonts.googleapis.com/css?family=Cinzel:400,700&display=swap" rel="stylesheet" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="main.css" />
   <link rel="icon" type="image/x-icon" href="img/logo/favicon.ico" />
+  
 </head>
 <body>
   <header>
@@ -18,43 +19,43 @@
     />
     <h1>Timothy Veryser</h1>
     <div class="language-switch">
-      <a href="en-galerij.html" title="View in English">🇬🇧 EN</a>
+        <a href="galerij.html" title="Bekijk in Nederlands">🇳🇱 NL</a>
     </div>
   </header>
 
-  <!-- Hamburger-menu knop -->
-  <button class="menu-toggle" aria-label="Menu openen">&#9776;</button>
+  <!-- Hamburger menu button -->
+  <button class="menu-toggle" aria-label="Open menu">&#9776;</button>
 
-  <nav role="navigation" aria-label="Hoofdmenu">
-    <a href="index.html">Home</a>
-    <a href="biografie.html">Biografie</a>
-    <a href="agenda.html">Agenda</a>
-    <a href="media.html">Media</a>
-    <a href="galerij.html" aria-current="page">Galerij</a>
-    <a href="contact.html">Contact</a>
+  <nav role="navigation" aria-label="Main menu">
+    <a href="en-index.html">Home</a>
+    <a href="en-biograpfie.html">Biography</a>
+    <a href="en-agenda.html">Schedule</a>
+    <a href="en-media.html">Media</a>
+    <a href="en-galerij.html" aria-current="page">Gallery</a>
+    <a href="en-contact.html">Contact</a>
   </nav>
 
   <section class="hero">
-    <h2>Galerij</h2>
+    <h2>Gallery</h2>
   </section>
 
-  <section class="gallery" aria-label="Fotogalerij">
+  <section class="gallery" aria-label="Photo gallery">
     <div class="gallery-grid" id="gallery-container">
-      <p>Galerij wordt geladen...</p>
+      <p>Loading gallery...</p>
     </div>
   </section>
 
   <footer>
-    &copy; 2025 Timothy Veryser. Alle rechten voorbehouden.
+    &copy; 2025 Timothy Veryser. All rights reserved.
   </footer>
 
-  <!-- Lightbox overlay voor vergroting -->
+  <!-- Lightbox overlay for image enlargement -->
   <div id="lightbox-overlay" tabindex="-1" aria-hidden="true">
-    <span id="lightbox-close" title="Sluiten" aria-label="Sluit vergrote afbeelding">&times;</span>
+    <span id="lightbox-close" title="Close" aria-label="Close enlarged image">&times;</span>
     <img id="lightbox-img" src="" alt="" />
   </div>
 
-  <!-- Hamburger-menu script -->
+  <!-- Hamburger menu script -->
   <script>
     const menuBtn = document.querySelector('.menu-toggle');
     const nav = document.querySelector('nav');
@@ -71,12 +72,12 @@
     }
   </script>
 
-  <!-- Galerij- en lightbox-script -->
+  <!-- Gallery and lightbox script -->
   <script>
-    // Dynamisch gallerij.json ophalen (cache-busting via timestamp)
+    // Dynamically fetch gallerij.json (cache-busting via timestamp)
     fetch('data/gallerij.json?v=' + new Date().getTime())
       .then(response => {
-        if (!response.ok) throw new Error("Kan gallerij.json niet laden");
+        if (!response.ok) throw new Error("Cannot load gallerij.json");
         return response.json();
       })
       .then(data => {
@@ -90,15 +91,15 @@
           container.appendChild(img);
         });
         if (data.length === 0) {
-          container.innerHTML = '<p>Er staan nog geen foto’s in de galerij.</p>';
+          container.innerHTML = '<p>No photos in the gallery yet.</p>';
         }
       })
       .catch(err => {
-        console.error('Fout bij laden gallerij:', err);
-        document.getElementById('gallery-container').innerHTML = '<p>Kon galerij niet laden.</p>';
+        console.error('Error loading gallery:', err);
+        document.getElementById('gallery-container').innerHTML = '<p>Could not load gallery.</p>';
       });
 
-    // Lightbox functionaliteit
+    // Lightbox functionality
     const lightboxOverlay = document.getElementById('lightbox-overlay');
     const lightboxImg = document.getElementById('lightbox-img');
     const lightboxClose = document.getElementById('lightbox-close');

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Timothy Veryser - Home</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link href="https://fonts.googleapis.com/css?family=Cinzel:400,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="main.css" />
+  <link rel="icon" type="image/x-icon" href="img/logo/favicon.ico" />
+  
+</head>
+<body>
+  <header>
+    <img
+      src="img/logo/android-chrome-192x192.png"
+      alt="Logo Timothy Veryser"
+      class="site-logo"
+      width="48" height="48"
+    />
+    <h1>Timothy Veryser</h1>
+    <div class="language-switch">
+        <a href="index.html" title="Bekijk in Nederlands">🇳🇱 NL</a>
+    </div>
+  </header>
+
+  <!-- Hamburger button for mobile -->
+  <button class="menu-toggle" aria-label="Open menu">&#9776;</button>
+
+  <nav role="navigation" aria-label="Main menu">
+    <a href="en-index.html" aria-current="page">Home</a>
+    <a href="en-biograpfie.html">Biography</a>
+    <a href="en-agenda.html">Schedule</a>
+    <a href="en-media.html">Media</a>
+    <a href="en-galerij.html">Gallery</a>
+    <a href="en-contact.html">Contact</a>
+  </nav>
+
+  <main>
+    <section class="hero" aria-label="Introduction">
+      <img src="img/timphotohome.png" alt="Portrait photo of Timothy Veryser" />
+      <h2>Welcome to my website</h2>
+      <p>
+        Timothy Veryser is a young Belgian tenor who performs on international stages.
+        In 2024 he graduated summa cum laude in Classical Singing from the School of Arts Ghent.
+        He has sung at the Bregenz Festival, La Monnaie Opera House, Opera Ballet Vlaanderen, and the Beethoven Festival in Zutphen.
+        He has won several prizes in international singing competitions, including the first prize and audience award at the XIV Concours Lyrique International Bell'Arte and the third prize at the National Operetta Competition.
+      </p>
+      <blockquote class="quote" aria-label="Review">
+        “A magnificent voice that captivates the audience.” – De Volkskrant
+      </blockquote>
+      <button class="cta-button" onclick="window.location.href='agenda.html'" aria-label="View performance schedule">View Schedule</button>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Timothy Veryser. All rights reserved.
+  </footer>
+
+  <!-- Hamburger menu script -->
+  <script>
+    const menuBtn = document.querySelector('.menu-toggle');
+    const nav = document.querySelector('nav');
+
+    menuBtn.addEventListener('click', () => {
+      nav.classList.toggle('active');
+    });
+
+    // Optional: automatically close menu when clicking a link
+    nav.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        nav.classList.remove('active');
+      });
+    });
+  </script>
+</body>
+</html>

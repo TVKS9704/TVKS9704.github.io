@@ -520,3 +520,39 @@ footer {
   }
 }
 
+/* Language switcher rechts in de header */
+.language-switch {
+  position: absolute;
+  top: 50%;
+  right: 20px; /* marge rechts */
+  transform: translateY(-50%);
+  z-index: 2; /* boven achtergrond, onder menu-button */
+}
+
+.language-switch a {
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+  font-size: 0.95rem;
+  letter-spacing: 1px;
+  background: rgba(255, 255, 255, 0.12);
+  color: var(--gold);
+  text-decoration: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+  border: 1px solid var(--gold);
+  transition: background 0.2s, color 0.2s;
+}
+
+.language-switch a:hover {
+  background: var(--gold);
+  color: var(--dark);
+}
+
+/* Op mobiel moet ie netjes boven nav of naast menu-knop */
+@media (max-width: 720px) {
+  .language-switch {
+    position: static;
+    transform: none;
+    margin-top: 6px;
+  }
+}

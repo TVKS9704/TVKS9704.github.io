@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Timothy Veryser - Agenda</title>
+  <title>Timothy Veryser - Schedule</title>
   <link href="https://fonts.googleapis.com/css?family=Cinzel:400,700&display=swap" rel="stylesheet">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="main.css" />
@@ -19,37 +19,37 @@
     />
     <h1>Timothy Veryser</h1>
     <div class="language-switch">
-      <a href="en-agenda.html" title="View in English">🇬🇧 EN</a>
+        <a href="agenda.html" title="Bekijk in Nederlands">🇳🇱 NL</a>
     </div>
   </header>
 
-  <!-- Hamburger-menu knop -->
-  <button class="menu-toggle" aria-label="Menu openen">&#9776;</button>
+  <!-- Hamburger button -->
+  <button class="menu-toggle" aria-label="Open menu">&#9776;</button>
 
-  <nav role="navigation" aria-label="Hoofdmenu">
-    <a href="index.html">Home</a>
-    <a href="biografie.html">Biografie</a>
-    <a href="agenda.html" aria-current="page">Agenda</a>
-    <a href="media.html">Media</a>
-    <a href="galerij.html">Galerij</a>
-    <a href="contact.html">Contact</a>
+  <nav role="navigation" aria-label="Main menu">
+    <a href="en-index.html">Home</a>
+    <a href="en-biograpfie.html">Biography</a>
+    <a href="en-agenda.html" aria-current="page">Schedule</a>
+    <a href="en-media.html">Media</a>
+    <a href="en-galerij.html">Gallery</a>
+    <a href="en-contact.html">Contact</a>
   </nav>
 
   <main>
-    <section class="hero" aria-label="Binnenkomende optredens">
-      <h2>Agenda</h2>
+    <section class="hero" aria-label="Upcoming performances">
+      <h2>Schedule</h2>
     </section>
 
-    <section class="optreden-lijst" aria-label="Uitgelichte concerten" id="agenda-container">
-      <p>Agenda wordt geladen...</p>
+    <section class="optreden-lijst" aria-label="Featured concerts" id="agenda-container">
+      <p>Loading schedule...</p>
     </section>
   </main>
 
   <footer>
-    &copy; 2025 Timothy Veryser. Alle rechten voorbehouden.
+    &copy; 2025 Timothy Veryser. All rights reserved.
   </footer>
 
-  <!-- Hamburger-menu script -->
+  <!-- Hamburger menu script -->
   <script>
     const menuBtn = document.querySelector('.menu-toggle');
     const nav = document.querySelector('nav');
@@ -66,14 +66,14 @@
     }
   </script>
 
-  <!-- Agenda laden via JS -->
+  <!-- Load schedule via JS -->
   <script>
     function loadAgenda() {
-      // Voeg een timestamp toe als cache-buster
+      // Add timestamp as cache-buster
       const agendaUrl = 'data/agenda.json?v=' + new Date().getTime();
       fetch(agendaUrl)
         .then(response => {
-          if (!response.ok) throw new Error("Kan agenda.json niet laden");
+          if (!response.ok) throw new Error("Cannot load agenda.json");
           return response.json();
         })
         .then(data => {
@@ -83,30 +83,30 @@
             const article = document.createElement('article');
             article.classList.add('highlighted-event');
             article.innerHTML = `
-              <h3>${event.titel}</h3>
-              <img src="${event.foto_url}" alt="${event.titel}" class="event-poster" />
+              <h3>${event.title}</h3>
+              <img src="${event.photo_url}" alt="${event.title}" class="event-poster" />
               <div class="event-info">
                 ${event.extra ? `<p>${event.extra}</p>` : ""}
-                ${event.datum ? `<p><strong>Datum:</strong> ${event.datum}</p>` : ""}
-                ${event.tijd ? `<p><strong>Tijd:</strong> ${event.tijd}</p>` : ""}
-                ${event.locatie ? `<p><strong>Locatie:</strong> ${event.locatie}</p>` : ""}
-                ${event.artiesten ? `<p><strong>Uitvoerders:</strong> ${event.artiesten}</p>` : ""}
-                ${event.meer_info_url ? `<a class="cta-button" href="${event.meer_info_url}" target="_blank" aria-label="Meer info">Meer info</a>` : ""}
+                ${event.date ? `<p><strong>Date:</strong> ${event.date}</p>` : ""}
+                ${event.time ? `<p><strong>Time:</strong> ${event.time}</p>` : ""}
+                ${event.location ? `<p><strong>Location:</strong> ${event.location}</p>` : ""}
+                ${event.performers ? `<p><strong>Performers:</strong> ${event.performers}</p>` : ""}
+                ${event.more_info_url ? `<a class="cta-button" href="${event.more_info_url}" target="_blank" aria-label="More info">More info</a>` : ""}
               </div>
             `;
             container.appendChild(article);
           });
           if (data.length === 0) {
-            container.innerHTML = '<p>Er staan momenteel geen geplande optredens.</p>';
+            container.innerHTML = '<p>No scheduled performances at the moment.</p>';
           }
         })
         .catch(err => {
-          console.error('Fout bij laden agenda:', err);
-          document.getElementById('agenda-container').innerHTML = '<p>Kon agenda niet laden.</p>';
+          console.error('Error loading schedule:', err);
+          document.getElementById('agenda-container').innerHTML = '<p>Could not load schedule.</p>';
         });
     }
     loadAgenda();
-    // Indien gewenst: automatisch verversen
+    // Optional: auto-refresh
     // setInterval(loadAgenda, 30000);
   </script>
 </body>
