@@ -18,7 +18,10 @@
     />
     <h1>Timothy Veryser</h1>
   </header>
-  
+
+  <!-- Hamburger-menu knop -->
+  <button class="menu-toggle" aria-label="Menu openen">&#9776;</button>
+
   <nav role="navigation" aria-label="Hoofdmenu">
     <a href="index.html">Home</a>
     <a href="biografie.html" aria-current="page">Biografie</a>
@@ -29,7 +32,7 @@
   </nav>
 
   <main>
-  <section class="hero biografie-met-achtergrond" aria-label="Biografie">
+    <section class="hero biografie-met-achtergrond" aria-label="Biografie">
       <h2>Biografie</h2>
       <p>
         De Belgische tenor Timothy Veryser (°1997) startte zijn muzikale pad met accordeon-, piano- en muziektheorieles van zijn grootvader René Van Roye. Op zijn achtste begon hij lessen te volgen aan de Stedelijke Muziekacademie Clemens Non Papa in Diksmuide. Vanaf zijn achttiende kreeg hij zanglessen bij Erika Pauwels in Gent.
@@ -55,5 +58,22 @@
   <footer>
     &copy; 2025 Timothy Veryser. Alle rechten voorbehouden.
   </footer>
+
+  <!-- Hamburger-menu script -->
+  <script>
+    const menuBtn = document.querySelector('.menu-toggle');
+    const nav = document.querySelector('nav');
+
+    if(menuBtn && nav) {
+      menuBtn.addEventListener('click', () => {
+        nav.classList.toggle('active');
+      });
+      nav.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', () => {
+          nav.classList.remove('active');
+        });
+      });
+    }
+  </script>
 </body>
 </html>

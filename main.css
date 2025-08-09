@@ -421,3 +421,102 @@ footer {
   position: relative;
   z-index: 2;
 }
+.menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  color: var(--gold);
+  font-size: 2.3rem;
+  padding: 10px 16px;
+  cursor: pointer;
+  position: absolute;
+  top: 18px;
+  right: 20px;
+  z-index: 150;
+}
+
+@media (max-width: 720px) {
+  /* Hamburger knop tonen boven nav */
+  .menu-toggle {
+    display: block;
+  }
+  header {
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    padding: 10px;
+    position: relative;
+  }
+  .site-logo {
+    margin: 0 auto 8px auto;
+  }
+  header h1 {
+    font-size: 1.6rem;
+    padding: 0 10px;
+    position: static;
+    transform: none;
+    margin-bottom: 8px;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+  /* Navigatie standaard verborgen op mobiel */
+  nav {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    background: var(--dark);
+    padding: 12px 0;
+    position: relative;
+    z-index: 100;
+    border-bottom: 2px solid var(--gold);
+  }
+  /* Nav tonen als .active (na klik menu) */
+  nav.active {
+    display: flex;
+  }
+  nav a {
+    margin: 10px 0;
+    font-size: 1.1rem;
+    padding: 10px 22px;
+    display: block;
+    width: 85vw;
+    max-width: 320px;
+    text-align: center;
+  }
+
+  /* Hero en overige elementen blijven zoals boven: alleen schaalaanpassing */
+  .hero {
+    padding: 40px 6px;
+  }
+  .hero img {
+    max-width: 100%;
+    height: auto;
+  }
+  .hero h2 {
+    font-size: 1.5rem;
+  }
+  .hero p {
+    font-size: 1rem;
+    padding: 0 8px;
+    max-width: 96vw;
+    text-align: left;
+  }
+  .quote {
+    font-size: 1.05rem;
+  }
+  /* Gallery, videos */
+  .gallery {
+    padding: 0 4px;
+  }
+  .gallery-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  .videos-grid {
+    grid-template-columns: 1fr;
+  }
+  .videos-grid iframe {
+    height: 200px;
+  }
+}
+

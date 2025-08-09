@@ -19,6 +19,9 @@
     <h1>Timothy Veryser</h1>
   </header>
 
+  <!-- Hamburger-menu knop -->
+  <button class="menu-toggle" aria-label="Menu openen">&#9776;</button>
+
   <nav role="navigation" aria-label="Hoofdmenu">
     <a href="index.html">Home</a>
     <a href="biografie.html">Biografie</a>
@@ -33,7 +36,6 @@
       <h2>Agenda</h2>
     </section>
 
-    <!-- Lege container die met JS wordt gevuld -->
     <section class="optreden-lijst" aria-label="Uitgelichte concerten" id="agenda-container">
       <p>Agenda wordt geladen...</p>
     </section>
@@ -43,12 +45,28 @@
     &copy; 2025 Timothy Veryser. Alle rechten voorbehouden.
   </footer>
 
-  <!-- Nooit meer oude agenda.json in cache: altijd vers inladen! -->
+  <!-- Hamburger-menu script -->
+  <script>
+    const menuBtn = document.querySelector('.menu-toggle');
+    const nav = document.querySelector('nav');
+
+    if(menuBtn && nav) {
+      menuBtn.addEventListener('click', () => {
+        nav.classList.toggle('active');
+      });
+      nav.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', () => {
+          nav.classList.remove('active');
+        });
+      });
+    }
+  </script>
+
+  <!-- Agenda laden via JS -->
   <script>
     function loadAgenda() {
-      // Voeg een timestamp toe aan de URL als cache-buster
+      // Voeg een timestamp toe als cache-buster
       const agendaUrl = 'data/agenda.json?v=' + new Date().getTime();
-
       fetch(agendaUrl)
         .then(response => {
           if (!response.ok) throw new Error("Kan agenda.json niet laden");
@@ -57,7 +75,6 @@
         .then(data => {
           const container = document.getElementById('agenda-container');
           container.innerHTML = '';
-
           data.forEach(event => {
             const article = document.createElement('article');
             article.classList.add('highlighted-event');
@@ -75,7 +92,6 @@
             `;
             container.appendChild(article);
           });
-
           if (data.length === 0) {
             container.innerHTML = '<p>Er staan momenteel geen geplande optredens.</p>';
           }
@@ -85,10 +101,8 @@
           document.getElementById('agenda-container').innerHTML = '<p>Kon agenda niet laden.</p>';
         });
     }
-
-    // Laad direct bij openen en evt. later opnieuw (voor development/test)
     loadAgenda();
-    // Voor testers: je kunt de volgende regel activeren om bv. om de 30 seconden automatisch te verversen:
+    // Indien gewenst: automatisch verversen
     // setInterval(loadAgenda, 30000);
   </script>
 </body>

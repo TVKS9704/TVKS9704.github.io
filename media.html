@@ -19,6 +19,9 @@
     <h1>Timothy Veryser</h1>
   </header>
 
+  <!-- Hamburger-menu knop -->
+  <button class="menu-toggle" aria-label="Menu openen">&#9776;</button>
+
   <nav role="navigation" aria-label="Hoofdmenu">
     <a href="index.html">Home</a>
     <a href="biografie.html">Biografie</a>
@@ -42,8 +45,25 @@
     &copy; 2025 Timothy Veryser. Alle rechten voorbehouden.
   </footer>
 
+  <!-- Hamburger-menu script -->
   <script>
-    // Laadt video's uit JSON en maakt YouTube iframes
+    const menuBtn = document.querySelector('.menu-toggle');
+    const nav = document.querySelector('nav');
+
+    if(menuBtn && nav) {
+      menuBtn.addEventListener('click', () => {
+        nav.classList.toggle('active');
+      });
+      nav.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', () => {
+          nav.classList.remove('active');
+        });
+      });
+    }
+  </script>
+
+  <!-- Media-video's laden via JS -->
+  <script>
     fetch('data/media.json')
       .then(response => response.json())
       .then(videos => {
