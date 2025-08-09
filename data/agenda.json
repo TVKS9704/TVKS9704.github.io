@@ -30,16 +30,6 @@
     "meer_info_url": "https://www.lamonnaiedemunt.be/nl/program/3582-liebesliederwalzer"
   },
   {
-    "titel": "Parsifal - R. Wagner",
-    "foto_url": "https://obv-media.s3.eu-central-1.amazonaws.com/a5cP6000002qEDpIAM_1536x864.jpg",
-    "extra": "Rol: Vierte Knappe",
-    "datum": "11-22 oktober 2025",
-    "tijd": "",
-    "locatie": "Opera Antwerpen",
-    "artiesten": "",
-    "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2025-2026/parsifal"
-  },
-  {
     "titel": "Symphony of Praise-concert",
     "foto_url": "https://images-prod-uitdatabank.imgix.net/ff85ccba-5cb5-40e8-8ab0-59410f18ee7c.jpeg",
     "extra": "Kroenungsmesse - W. A. Mozart<br>Lobgesang - F. Mendelssohn",
@@ -48,6 +38,16 @@
     "locatie": "Theaterzaal Maupertuis Zaventem",
     "artiesten": "Timothy Veryser (tenor), Emma Posman (sopraan), Lara Cannaert (mezzo), Lucas Cortoos (bas)",
     "meer_info_url": "https://www.zaventem.be/activiteiten/detail/3650/40-jaar-omnia-cantica-symphony-of-praise"
+  },
+  {
+    "titel": "Parsifal - R. Wagner",
+    "foto_url": "https://obv-media.s3.eu-central-1.amazonaws.com/a5cP6000002qEDpIAM_1536x864.jpg",
+    "extra": "Rol: Vierte Knappe",
+    "datum": "11-22 oktober 2025",
+    "tijd": "",
+    "locatie": "Opera Antwerpen",
+    "artiesten": "",
+    "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2025-2026/parsifal"
   },
   {
     "titel": "Symphony of Praise-concert",
