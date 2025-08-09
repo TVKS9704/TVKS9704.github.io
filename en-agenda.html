@@ -67,47 +67,47 @@
   </script>
 
   <!-- Load schedule via JS -->
-  <script>
-    function loadAgenda() {
-      // Add timestamp as cache-buster
-      const agendaUrl = 'data/agenda.json?v=' + new Date().getTime();
-      fetch(agendaUrl)
-        .then(response => {
-          if (!response.ok) throw new Error("Cannot load agenda.json");
-          return response.json();
-        })
-        .then(data => {
-          const container = document.getElementById('agenda-container');
-          container.innerHTML = '';
-          data.forEach(event => {
-            const article = document.createElement('article');
-            article.classList.add('highlighted-event');
-            article.innerHTML = `
-              <h3>${event.title}</h3>
-              <img src="${event.photo_url}" alt="${event.title}" class="event-poster" />
-              <div class="event-info">
-                ${event.extra ? `<p>${event.extra}</p>` : ""}
-                ${event.date ? `<p><strong>Date:</strong> ${event.date}</p>` : ""}
-                ${event.time ? `<p><strong>Time:</strong> ${event.time}</p>` : ""}
-                ${event.location ? `<p><strong>Location:</strong> ${event.location}</p>` : ""}
-                ${event.performers ? `<p><strong>Performers:</strong> ${event.performers}</p>` : ""}
-                ${event.more_info_url ? `<a class="cta-button" href="${event.more_info_url}" target="_blank" aria-label="More info">More info</a>` : ""}
-              </div>
-            `;
-            container.appendChild(article);
-          });
-          if (data.length === 0) {
-            container.innerHTML = '<p>No scheduled performances at the moment.</p>';
-          }
-        })
-        .catch(err => {
-          console.error('Error loading schedule:', err);
-          document.getElementById('agenda-container').innerHTML = '<p>Could not load schedule.</p>';
+<!-- Load schedule via JS -->
+<script>
+  function loadAgenda() {
+    // Gebruik dezelfde JSON als NL-versie
+    const agendaUrl = 'data/agenda.json?v=' + new Date().getTime();
+    fetch(agendaUrl)
+      .then(response => {
+        if (!response.ok) throw new Error("Cannot load agenda.json");
+        return response.json();
+      })
+      .then(data => {
+        const container = document.getElementById('agenda-container');
+        container.innerHTML = '';
+        data.forEach(event => {
+          const article = document.createElement('article');
+          article.classList.add('highlighted-event');
+          article.innerHTML = `
+            <h3>${event.titel}</h3>
+            <img src="${event.foto_url}" alt="${event.titel}" class="event-poster" />
+            <div class="event-info">
+              ${event.extra ? `<p>${event.extra}</p>` : ""}
+              ${event.datum ? `<p><strong>Date:</strong> ${event.datum}</p>` : ""}
+              ${event.tijd ? `<p><strong>Time:</strong> ${event.tijd}</p>` : ""}
+              ${event.locatie ? `<p><strong>Location:</strong> ${event.locatie}</p>` : ""}
+              ${event.artiesten ? `<p><strong>Performers:</strong> ${event.artiesten}</p>` : ""}
+              ${event.meer_info_url ? `<a class="cta-button" href="${event.meer_info_url}" target="_blank" aria-label="More info">More info</a>` : ""}
+            </div>
+          `;
+          container.appendChild(article);
         });
-    }
-    loadAgenda();
-    // Optional: auto-refresh
-    // setInterval(loadAgenda, 30000);
-  </script>
+        if (data.length === 0) {
+          container.innerHTML = '<p>No scheduled performances at the moment.</p>';
+        }
+      })
+      .catch(err => {
+        console.error('Error loading schedule:', err);
+        document.getElementById('agenda-container').innerHTML = '<p>Could not load schedule.</p>';
+      });
+  }
+  loadAgenda();
+</script>
+
 </body>
 </html>
