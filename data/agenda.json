@@ -41,16 +41,6 @@
   },
   {
     "titel": "Symphony of Praise-concert",
-    "foto_url": "https://images-prod-uitdatabank.imgix.net/ff85ccba-5cb5-40e8-8ab0-59410f18ee7c.jpeg",
-    "extra": "Kroenungsmesse - W. A. Mozart<br>Lobgesang - F. Mendelssohn",
-    "datum": "8 november 2025",
-    "tijd": "20:00 tot 22:00",
-    "locatie": "Theaterzaal Maupertuis Zaventem",
-    "artiesten": "Timothy Veryser (tenor), Emma Posman (sopraan), Lara Cannaert (mezzo), Lucas Cortoos (bas)",
-    "meer_info_url": "https://www.zaventem.be/activiteiten/detail/3650/40-jaar-omnia-cantica-symphony-of-praise"
-  },
-  {
-    "titel": "Symphony of Praise-concert",
     "foto_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Onze-Lieve-Vrouw_van_Goede_Hoopkerk%2C_Vilvoorde_%28DSCF0943%29.jpg/1920px-Onze-Lieve-Vrouw_van_Goede_Hoopkerk%2C_Vilvoorde_%28DSCF0943%29.jpg",
     "extra": "Kroenungsmesse - W. A. Mozart<br>Lobgesang - F. Mendelssohn",
     "datum": "7 november 2025",
@@ -58,5 +48,15 @@
     "locatie": "OLV - kerk Vilvoorde",
     "artiesten": "Timothy Veryser (tenor), Emma Posman (sopraan), Lara Cannaert (mezzo), Lucas Cortoos (bas)",
     "meer_info_url": "https://www.uitinvlaanderen.be/agenda/e/20-jaar-helicante-symphony-of-praise/2647b9d4-9a47-4f80-9d2e-09f4e2b8500a"
+  },
+  {
+    "titel": "Symphony of Praise-concert",
+    "foto_url": "https://images-prod-uitdatabank.imgix.net/ff85ccba-5cb5-40e8-8ab0-59410f18ee7c.jpeg",
+    "extra": "Kroenungsmesse - W. A. Mozart<br>Lobgesang - F. Mendelssohn",
+    "datum": "8 november 2025",
+    "tijd": "20:00 tot 22:00",
+    "locatie": "Theaterzaal Maupertuis Zaventem",
+    "artiesten": "Timothy Veryser (tenor), Emma Posman (sopraan), Lara Cannaert (mezzo), Lucas Cortoos (bas)",
+    "meer_info_url": "https://www.zaventem.be/activiteiten/detail/3650/40-jaar-omnia-cantica-symphony-of-praise"
   }
 ]
