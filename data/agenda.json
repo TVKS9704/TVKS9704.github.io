@@ -90,16 +90,6 @@
     "meer_info_url": "https://www.despil.be/agenda/apero-opera-y3gv"
   },
   {
-    "titel": "Kerstconcert Mechelen (eigen organisatie)",
-    "foto_url": "img/evenementen/TrioNotilo.jpg",
-    "extra": "tbc",
-    "datum": "19 december 2025",
-    "tijd": "tbc",
-    "locatie": "Mechelen",
-    "artiesten": "Timothy Veryser (tenor), Noa Vanden Broucke (sopraan), Lore Hermans (pianiste)",
-    "meer_info_url": ""
-  },
-  {
     "titel": "Concertini",
     "foto_url": "img/evenementen/MMSoloists2425.jpg",
     "extra": "Programma rond H. Berlioz",
@@ -108,6 +98,16 @@
     "locatie": "Grand Foyer, La Monnaie De Munt, Brussels",
     "artiesten": "MM Laureates & MM Soloists",
     "meer_info_url": "https://www.lamonnaiedemunt.be/nl/program/2743-concertini"
+  },
+  {
+    "titel": "Kerstconcert Mechelen (eigen organisatie)",
+    "foto_url": "img/evenementen/TrioNotilo.jpg",
+    "extra": "tbc",
+    "datum": "19 december 2025",
+    "tijd": "tbc",
+    "locatie": "Mechelen",
+    "artiesten": "Timothy Veryser (tenor), Noa Vanden Broucke (sopraan), Lore Hermans (pianiste)",
+    "meer_info_url": ""
   },
   {
     "titel": "Kerstconcert Beerst (eigen organisatie)",
