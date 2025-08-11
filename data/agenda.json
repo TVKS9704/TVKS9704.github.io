@@ -110,16 +110,6 @@
     "meer_info_url": ""
   },
   {
-    "titel": "Prosit Neujahr!",
-    "foto_url": "img/evenementen/WhatsApp Image 2025-04-23 at 08.56.17_1.jpeg",
-    "extra": "",
-    "datum": "18 januari 2026",
-    "tijd": "15:00",
-    "locatie": "Magrittezaal Casino, Knokke",
-    "artiesten": "Timothy Veryser (tenor), Emma Posman (sopraan), Florestan Bataillie (pianist), Desguinkwartet",
-    "meer_info_url": "https://www.uitinvlaanderen.be/agenda/e/prosit-neujahr-florestan-bataille-emma-posman-timothy-veryser-desquin-kwartet/c5616956-62e0-4937-a4e5-20e6f700cc87"
-  },
-  {
     "titel": "Concertini",
     "foto_url": "img/evenementen/MMSoloists2425.jpg",
     "extra": "Programma rond H. Berlioz",
@@ -128,6 +118,16 @@
     "locatie": "Grand Foyer, La Monnaie De Munt, Brussels",
     "artiesten": "MM Laureates & MM Soloists",
     "meer_info_url": "https://www.lamonnaiedemunt.be/nl/program/2743-concertini"
+  },
+  {
+    "titel": "Prosit Neujahr!",
+    "foto_url": "img/evenementen/WhatsApp Image 2025-04-23 at 08.56.17_1.jpeg",
+    "extra": "",
+    "datum": "18 januari 2026",
+    "tijd": "15:00",
+    "locatie": "Magrittezaal Casino, Knokke",
+    "artiesten": "Timothy Veryser (tenor), Emma Posman (sopraan), Florestan Bataillie (pianist), Desguinkwartet",
+    "meer_info_url": "https://www.uitinvlaanderen.be/agenda/e/prosit-neujahr-florestan-bataille-emma-posman-timothy-veryser-desquin-kwartet/c5616956-62e0-4937-a4e5-20e6f700cc87"
   },
   {
     "titel": "Passieconcert Antwerpen",
