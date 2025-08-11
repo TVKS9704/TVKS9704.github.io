@@ -140,16 +140,6 @@
     "meer_info_url": ""
   },
   {
-    "titel": "Gastoptredens bij een grote Vlaamse artiest",
-    "foto_url": "img/evenementen/GE_07165.jpg",
-    "extra": "tbc",
-    "datum": "4-5-6 april 2026",
-    "tijd": "tbc",
-    "locatie": "tbc",
-    "artiesten": "tbc",
-    "meer_info_url": ""
-  },
-  {
     "titel": "Concertini",
     "foto_url": "img/evenementen/MMSoloists2425.jpg",
     "extra": "Programma rond H. Berlioz",
@@ -158,6 +148,16 @@
     "locatie": "Grand Foyer, La Monnaie De Munt, Brussels",
     "artiesten": "MM Laureates & MM Soloists",
     "meer_info_url": "https://www.lamonnaiedemunt.be/nl/program/2743-concertini"
+  },
+  {
+    "titel": "Gastoptredens bij een grote Vlaamse artiest",
+    "foto_url": "img/evenementen/GE_07165.jpg",
+    "extra": "tbc",
+    "datum": "4-5-6 april 2026",
+    "tijd": "tbc",
+    "locatie": "tbc",
+    "artiesten": "tbc",
+    "meer_info_url": ""
   },
   {
     "titel": "Opera Avanti",
