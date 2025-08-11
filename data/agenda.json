@@ -128,5 +128,15 @@
     "locatie": "De Singel, Antwerpen",
     "artiesten": "tbc",
     "meer_info_url": ""
+  },
+  {
+    "titel": "Passieconcert Brugge",
+    "foto_url": "img/evenementen/DECHORALE_2.png",
+    "extra": "tbc",
+    "datum": "29 maart 2026",
+    "tijd": "15:00",
+    "locatie": "Concertgebouw Brugge",
+    "artiesten": "tbc",
+    "meer_info_url": ""
   }
 ]
