@@ -70,16 +70,6 @@
     "meer_info_url": "https://www.lamonnaiedemunt.be/nl/program/3572-l-enfant-et-les-sortileges"
   },
   {
-    "titel": "Carmina Burana - C. Orff",
-    "foto_url": "img/evenementen/GUK.jpg",
-    "extra": "Tenor solo",
-    "datum": "10-11 december 2025",
-    "tijd": "20:00",
-    "locatie": "De Bijloke & St. Pauluskerk Gent",
-    "artiesten": "Jolien De Gendt (soprano), Timothy Veryser (tenor), \nHenk Lauwers (baritone)",
-    "meer_info_url": "https://gentsuniversitairkoor.be/project-view/save-the-date-3/"
-  },
-  {
     "titel": "Concertini",
     "foto_url": "img/evenementen/MMSoloists2425.jpg",
     "extra": "Programma rond H. Berlioz",
@@ -88,6 +78,16 @@
     "locatie": "Grand Foyer, La Monnaie De Munt, Brussels",
     "artiesten": "MM Laureates & MM Soloists",
     "meer_info_url": "https://www.lamonnaiedemunt.be/nl/program/2743-concertini"
+  },
+  {
+    "titel": "Carmina Burana - C. Orff",
+    "foto_url": "img/evenementen/GUK.jpg",
+    "extra": "Tenor solo",
+    "datum": "10-11 december 2025",
+    "tijd": "20:00",
+    "locatie": "De Bijloke & St. Pauluskerk Gent",
+    "artiesten": "Jolien De Gendt (soprano), Timothy Veryser (tenor), \nHenk Lauwers (baritone)",
+    "meer_info_url": "https://gentsuniversitairkoor.be/project-view/save-the-date-3/"
   },
   {
     "titel": "Apero-Opera",
