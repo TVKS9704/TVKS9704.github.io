@@ -60,16 +60,6 @@
     "meer_info_url": ""
   },
   {
-    "titel": "Kerstconcert Beerst           (eigen organisatie)",
-    "foto_url": "img/evenementen/AfficheKerstconcerten25_1.jpg",
-    "extra": "Tickets via timothyveryser@hotmail.be",
-    "datum": "20 december 2025",
-    "tijd": "19:30",
-    "locatie": "Sint-Wandregesiluskerk, Beerst",
-    "artiesten": "Timothy Veryser (tenor), Noa Vanden Broucke (sopraan), Lore Hermans (pianiste)",
-    "meer_info_url": ""
-  },
-  {
     "titel": "L'enfant et les sortilèges (Un Pont)",
     "foto_url": "img/evenementen/Lenfantetlessortileges_1.jpg",
     "extra": "",
@@ -77,6 +67,16 @@
     "tijd": "14:00",
     "locatie": "La Monnaie De Munt",
     "artiesten": "Marie-Juliette Ghazarian, Estelle Defalque, Marion Bauwens, Leander Carlies, Lucas Cortoos, Emma Posman",
+    "meer_info_url": ""
+  },
+  {
+    "titel": "Kerstconcert Beerst           (eigen organisatie)",
+    "foto_url": "img/evenementen/AfficheKerstconcerten25_1.jpg",
+    "extra": "Tickets via timothyveryser@hotmail.be",
+    "datum": "20 december 2025",
+    "tijd": "19:30",
+    "locatie": "Sint-Wandregesiluskerk, Beerst",
+    "artiesten": "Timothy Veryser (tenor), Noa Vanden Broucke (sopraan), Lore Hermans (pianiste)",
     "meer_info_url": ""
   },
   {
