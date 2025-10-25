@@ -110,16 +110,6 @@
     "meer_info_url": ""
   },
   {
-    "titel": "Gastoptredens bij een grote Vlaamse artiest",
-    "foto_url": "img/evenementen/GE_07165.jpg",
-    "extra": "tbc",
-    "datum": "4-5-6-11-12 april 2026",
-    "tijd": "tbc",
-    "locatie": "tbc",
-    "artiesten": "tbc",
-    "meer_info_url": ""
-  },
-  {
     "titel": "Privé-concert Gent",
     "foto_url": "img/evenementen/WhatsApp Image 2025-10-25 at 12.39.02.jpeg",
     "extra": "",
@@ -127,6 +117,16 @@
     "tijd": "19:00",
     "locatie": "Gent",
     "artiesten": "Matthias De Smet, Timothy Veryser",
+    "meer_info_url": ""
+  },
+  {
+    "titel": "Gastoptredens bij een grote Vlaamse artiest",
+    "foto_url": "img/evenementen/GE_07165.jpg",
+    "extra": "tbc",
+    "datum": "4-5-6-11-12 april 2026",
+    "tijd": "tbc",
+    "locatie": "tbc",
+    "artiesten": "tbc",
     "meer_info_url": ""
   },
   {
