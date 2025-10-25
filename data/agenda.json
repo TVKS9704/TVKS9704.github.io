@@ -80,16 +80,6 @@
     "meer_info_url": "https://www.uitinvlaanderen.be/agenda/e/prosit-neujahr-florestan-bataille-emma-posman-timothy-veryser-desquin-kwartet/c5616956-62e0-4937-a4e5-20e6f700cc87"
   },
   {
-    "titel": "Passieconcert Antwerpen",
-    "foto_url": "img/evenementen/DECHORALE.png",
-    "extra": "DeChorale",
-    "datum": "22 maart 2026",
-    "tijd": "15:00",
-    "locatie": "De Singel, Antwerpen",
-    "artiesten": "tbc",
-    "meer_info_url": ""
-  },
-  {
     "titel": "L'enfant et les sortilèges (Un Pont)",
     "foto_url": "img/evenementen/Lenfantetlessortileges_1.jpg",
     "extra": "",
@@ -97,6 +87,16 @@
     "tijd": "14:00",
     "locatie": "La Monnaie De Munt",
     "artiesten": "Marie-Juliette Ghazarian, Estelle Defalque, Marion Bauwens, Leander Carlies, Lucas Cortoos, Emma Posman",
+    "meer_info_url": ""
+  },
+  {
+    "titel": "Passieconcert Antwerpen",
+    "foto_url": "img/evenementen/DECHORALE.png",
+    "extra": "DeChorale",
+    "datum": "22 maart 2026",
+    "tijd": "15:00",
+    "locatie": "De Singel, Antwerpen",
+    "artiesten": "tbc",
     "meer_info_url": ""
   },
   {
