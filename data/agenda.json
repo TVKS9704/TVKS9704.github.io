@@ -40,16 +40,6 @@
     "meer_info_url": "https://gentsuniversitairkoor.be/project-view/save-the-date-3/"
   },
   {
-    "titel": "Apero-Opera",
-    "foto_url": "img/evenementen/WhatsApp Image 2025-04-23 at 08.56.17.jpeg",
-    "extra": "Opera- en Operetteparels",
-    "datum": "14 december 2025",
-    "tijd": "11:00",
-    "locatie": "CC De Spil, Roeselare",
-    "artiesten": "Timothy Veryser (tenor), Emma Posman (sopraan), Florestan Bataillie (pianist)",
-    "meer_info_url": "https://www.despil.be/agenda/apero-opera-y3gv"
-  },
-  {
     "titel": "L'enfant et les sortilèges (Un Pont)",
     "foto_url": "img/evenementen/Lenfantetlessortileges_1.jpg",
     "extra": "",
@@ -58,6 +48,16 @@
     "locatie": "La Monnaie De Munt",
     "artiesten": "Marie-Juliette Ghazarian, Estelle Defalque, Marion Bauwens, Leander Carlies, Lucas Cortoos, Emma Posman",
     "meer_info_url": ""
+  },
+  {
+    "titel": "Apero-Opera",
+    "foto_url": "img/evenementen/WhatsApp Image 2025-04-23 at 08.56.17.jpeg",
+    "extra": "Opera- en Operetteparels",
+    "datum": "14 december 2025",
+    "tijd": "11:00",
+    "locatie": "CC De Spil, Roeselare",
+    "artiesten": "Timothy Veryser (tenor), Emma Posman (sopraan), Florestan Bataillie (pianist)",
+    "meer_info_url": "https://www.despil.be/agenda/apero-opera-y3gv"
   },
   {
     "titel": "Kerstconcert Mechelen (eigen organisatie)",
