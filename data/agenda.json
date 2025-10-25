@@ -90,16 +90,6 @@
     "meer_info_url": "https://www.uitinvlaanderen.be/agenda/e/prosit-neujahr-florestan-bataille-emma-posman-timothy-veryser-desquin-kwartet/c5616956-62e0-4937-a4e5-20e6f700cc87"
   },
   {
-    "titel": "Passieconcert Antwerpen",
-    "foto_url": "img/evenementen/DECHORALE.png",
-    "extra": "DeChorale",
-    "datum": "22 maart 2026",
-    "tijd": "15:00",
-    "locatie": "De Singel, Antwerpen",
-    "artiesten": "tbc",
-    "meer_info_url": ""
-  },
-  {
     "titel": "Privé-concert Gent",
     "foto_url": "img/evenementen/WhatsApp Image 2025-10-25 at 12.39.02.jpeg",
     "extra": "",
@@ -107,6 +97,16 @@
     "tijd": "19:00",
     "locatie": "Gent",
     "artiesten": "Matthias De Smet, Timothy Veryser",
+    "meer_info_url": ""
+  },
+  {
+    "titel": "Passieconcert Antwerpen",
+    "foto_url": "img/evenementen/DECHORALE.png",
+    "extra": "DeChorale",
+    "datum": "22 maart 2026",
+    "tijd": "15:00",
+    "locatie": "De Singel, Antwerpen",
+    "artiesten": "tbc",
     "meer_info_url": ""
   },
   {
