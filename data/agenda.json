@@ -50,16 +50,6 @@
     "meer_info_url": "https://www.despil.be/agenda/apero-opera-y3gv"
   },
   {
-    "titel": "Kerstconcert Mechelen (eigen organisatie)",
-    "foto_url": "img/evenementen/AfficheKerstconcerten25_2.jpg",
-    "extra": "tbc",
-    "datum": "19 december 2025",
-    "tijd": "tbc",
-    "locatie": "Mechelen",
-    "artiesten": "Timothy Veryser (tenor), Noa Vanden Broucke (sopraan), Lore Hermans (pianiste)",
-    "meer_info_url": ""
-  },
-  {
     "titel": "L'enfant et les sortilèges (Un Pont)",
     "foto_url": "img/evenementen/Lenfantetlessortileges_1.jpg",
     "extra": "",
@@ -67,6 +57,16 @@
     "tijd": "14:00",
     "locatie": "La Monnaie De Munt",
     "artiesten": "Marie-Juliette Ghazarian, Estelle Defalque, Marion Bauwens, Leander Carlies, Lucas Cortoos, Emma Posman",
+    "meer_info_url": ""
+  },
+  {
+    "titel": "Kerstconcert Mechelen (eigen organisatie)",
+    "foto_url": "img/evenementen/AfficheKerstconcerten25_2.jpg",
+    "extra": "tbc",
+    "datum": "19 december 2025",
+    "tijd": "tbc",
+    "locatie": "Mechelen",
+    "artiesten": "Timothy Veryser (tenor), Noa Vanden Broucke (sopraan), Lore Hermans (pianiste)",
     "meer_info_url": ""
   },
   {
