@@ -70,16 +70,6 @@
     "meer_info_url": ""
   },
   {
-    "titel": "Privé-concert Gent",
-    "foto_url": "img/evenementen/WhatsApp Image 2025-10-25 at 12.39.02.jpeg",
-    "extra": "",
-    "datum": "26 December 2025",
-    "tijd": "19:00",
-    "locatie": "Gent",
-    "artiesten": "Matthias De Smet, Timothy Veryser",
-    "meer_info_url": ""
-  },
-  {
     "titel": "Kerstconcert Beerst           (eigen organisatie)",
     "foto_url": "img/evenementen/AfficheKerstconcerten25_1.jpg",
     "extra": "Tickets via timothyveryser@hotmail.be",
@@ -87,6 +77,16 @@
     "tijd": "19:30",
     "locatie": "Sint-Wandregesiluskerk, Beerst",
     "artiesten": "Timothy Veryser (tenor), Noa Vanden Broucke (sopraan), Lore Hermans (pianiste)",
+    "meer_info_url": ""
+  },
+  {
+    "titel": "Privé-concert Gent",
+    "foto_url": "img/evenementen/WhatsApp Image 2025-10-25 at 12.39.02.jpeg",
+    "extra": "",
+    "datum": "26 December 2025",
+    "tijd": "19:00",
+    "locatie": "Gent",
+    "artiesten": "Matthias De Smet, Timothy Veryser",
     "meer_info_url": ""
   },
   {
