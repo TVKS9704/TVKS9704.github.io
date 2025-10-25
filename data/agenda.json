@@ -100,16 +100,6 @@
     "meer_info_url": ""
   },
   {
-    "titel": "Passieconcert Brugge",
-    "foto_url": "img/evenementen/DECHORALE_2.png",
-    "extra": "DeChorale",
-    "datum": "29 maart 2026",
-    "tijd": "15:00",
-    "locatie": "Concertgebouw, Brugge",
-    "artiesten": "tbc",
-    "meer_info_url": ""
-  },
-  {
     "titel": "Privé-concert Gent",
     "foto_url": "img/evenementen/WhatsApp Image 2025-10-25 at 12.39.02.jpeg",
     "extra": "",
@@ -117,6 +107,16 @@
     "tijd": "19:00",
     "locatie": "Gent",
     "artiesten": "Matthias De Smet, Timothy Veryser",
+    "meer_info_url": ""
+  },
+  {
+    "titel": "Passieconcert Brugge",
+    "foto_url": "img/evenementen/DECHORALE_2.png",
+    "extra": "DeChorale",
+    "datum": "29 maart 2026",
+    "tijd": "15:00",
+    "locatie": "Concertgebouw, Brugge",
+    "artiesten": "tbc",
     "meer_info_url": ""
   },
   {
