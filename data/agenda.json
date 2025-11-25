@@ -100,16 +100,6 @@
     "meer_info_url": ""
   },
   {
-    "titel": "Opera Avanti",
-    "foto_url": "img/evenementen/TheaterCool.jpg",
-    "extra": "Wiener Café vol Romantiek",
-    "datum": "10 mei 2026",
-    "tijd": "15:00",
-    "locatie": "Theater Cool, Heerhugowaard, NL",
-    "artiesten": "Timothy Veryser (tenor), Denzil Delaere (tenor), Gianna Canete Gallo, Karen Vermeiren, e.a.",
-    "meer_info_url": "https://www.coolkunstencultuur.nl/theater/agenda/seizoen-2025-2026/opera-avanti/"
-  },
-  {
     "titel": "800 Jaar Cathedrale Gudula",
     "foto_url": "img/evenementen/Gudula800.jpg",
     "extra": "Brussels Philharmonic Orchestra",
@@ -118,6 +108,16 @@
     "locatie": "Sint- Michiels- en Sint-Goedelekathedraal",
     "artiesten": "Marie-Noëlle de Callataÿ, Cécile Latschenko, Charles Dekeyser",
     "meer_info_url": "https://bpho.be/index.php/nl/concert/gudula26-le-concert-des-800-ans"
+  },
+  {
+    "titel": "Opera Avanti",
+    "foto_url": "img/evenementen/TheaterCool.jpg",
+    "extra": "Wiener Café vol Romantiek",
+    "datum": "10 mei 2026",
+    "tijd": "15:00",
+    "locatie": "Theater Cool, Heerhugowaard, NL",
+    "artiesten": "Timothy Veryser (tenor), Denzil Delaere (tenor), Gianna Canete Gallo, Karen Vermeiren, e.a.",
+    "meer_info_url": "https://www.coolkunstencultuur.nl/theater/agenda/seizoen-2025-2026/opera-avanti/"
   },
   {
     "titel": "Parsifal - R. Wagner",
