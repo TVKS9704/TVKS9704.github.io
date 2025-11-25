@@ -100,16 +100,6 @@
     "meer_info_url": ""
   },
   {
-    "titel": "Gastoptredens bij een grote Vlaamse artiest",
-    "foto_url": "img/evenementen/GE_07165.jpg",
-    "extra": "tbc",
-    "datum": "4-5-6-11-12 april 2026",
-    "tijd": "tbc",
-    "locatie": "tbc",
-    "artiesten": "tbc",
-    "meer_info_url": ""
-  },
-  {
     "titel": "DEBUUT Johannespassion Eersel",
     "foto_url": "img/evenementen/Bach.jpg",
     "extra": "",
@@ -118,6 +108,16 @@
     "locatie": "St. Willibrorduskerk  Kerkstraat 31 Eersel",
     "artiesten": "tbc",
     "meer_info_url": "https://passioneleprojecten.nl/"
+  },
+  {
+    "titel": "Gastoptredens bij een grote Vlaamse artiest",
+    "foto_url": "img/evenementen/GE_07165.jpg",
+    "extra": "tbc",
+    "datum": "4-5-6-11-12 april 2026",
+    "tijd": "tbc",
+    "locatie": "tbc",
+    "artiesten": "tbc",
+    "meer_info_url": ""
   },
   {
     "titel": "Opera Avanti",
