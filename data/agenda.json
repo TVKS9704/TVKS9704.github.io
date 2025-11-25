@@ -110,16 +110,6 @@
     "meer_info_url": "https://www.coolkunstencultuur.nl/theater/agenda/seizoen-2025-2026/opera-avanti/"
   },
   {
-    "titel": "Parsifal - R. Wagner",
-    "foto_url": "img/evenementen/WienerFestwochenLogo.jpg",
-    "extra": "Vierte Knappe",
-    "datum": "15-17-19-22 juni 2026",
-    "tijd": "tbc",
-    "locatie": "tbc, Wiener Festwochen, AT",
-    "artiesten": "",
-    "meer_info_url": ""
-  },
-  {
     "titel": "800 Jaar Cathedrale Gudula",
     "foto_url": "img/evenementen/Gudula800.jpg",
     "extra": "Brussels Philharmonic Orchestra",
@@ -128,5 +118,15 @@
     "locatie": "Sint- Michiels- en Sint-Goedelekathedraal",
     "artiesten": "Marie-Noëlle de Callataÿ, Cécile Latschenko, Charles Dekeyser",
     "meer_info_url": "https://bpho.be/index.php/nl/concert/gudula26-le-concert-des-800-ans"
+  },
+  {
+    "titel": "Parsifal - R. Wagner",
+    "foto_url": "img/evenementen/WienerFestwochenLogo.jpg",
+    "extra": "Vierte Knappe",
+    "datum": "15-17-19-22 juni 2026",
+    "tijd": "tbc",
+    "locatie": "tbc, Wiener Festwochen, AT",
+    "artiesten": "",
+    "meer_info_url": ""
   }
 ]
