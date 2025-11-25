@@ -80,16 +80,6 @@
     "meer_info_url": ""
   },
   {
-    "titel": "Passieconcert Brugge",
-    "foto_url": "img/evenementen/DECHORALE_2.png",
-    "extra": "DeChorale",
-    "datum": "29 maart 2026",
-    "tijd": "15:00",
-    "locatie": "Concertgebouw, Brugge",
-    "artiesten": "tbc",
-    "meer_info_url": ""
-  },
-  {
     "titel": "800 Jaar Cathedrale Gudula",
     "foto_url": "img/evenementen/Gudula800.jpg",
     "extra": "Brussels Philharmonic Orchestra",
@@ -98,6 +88,16 @@
     "locatie": "Sint- Michiels- en Sint-Goedelekathedraal",
     "artiesten": "Marie-Noëlle de Callataÿ, Cécile Latschenko, Charles Dekeyser",
     "meer_info_url": "https://bpho.be/index.php/nl/concert/gudula26-le-concert-des-800-ans"
+  },
+  {
+    "titel": "Passieconcert Brugge",
+    "foto_url": "img/evenementen/DECHORALE_2.png",
+    "extra": "DeChorale",
+    "datum": "29 maart 2026",
+    "tijd": "15:00",
+    "locatie": "Concertgebouw, Brugge",
+    "artiesten": "tbc",
+    "meer_info_url": ""
   },
   {
     "titel": "Gastoptredens bij een grote Vlaamse artiest",
