@@ -120,16 +120,6 @@
     "meer_info_url": "https://www.coolkunstencultuur.nl/theater/agenda/seizoen-2025-2026/opera-avanti/"
   },
   {
-    "titel": "Parsifal - R. Wagner",
-    "foto_url": "img/evenementen/WienerFestwochenLogo.jpg",
-    "extra": "Vierte Knappe",
-    "datum": "15-17-19-22 juni 2026",
-    "tijd": "tbc",
-    "locatie": "tbc, Wiener Festwochen, AT",
-    "artiesten": "",
-    "meer_info_url": ""
-  },
-  {
     "titel": "DEBUUT Johannespassion Eersel",
     "foto_url": "img/evenementen/Bach.jpg",
     "extra": "",
@@ -138,5 +128,15 @@
     "locatie": "St. Willibrorduskerk  Kerkstraat 31 Eersel",
     "artiesten": "tbc",
     "meer_info_url": "https://passioneleprojecten.nl/"
+  },
+  {
+    "titel": "Parsifal - R. Wagner",
+    "foto_url": "img/evenementen/WienerFestwochenLogo.jpg",
+    "extra": "Vierte Knappe",
+    "datum": "15-17-19-22 juni 2026",
+    "tijd": "tbc",
+    "locatie": "tbc, Wiener Festwochen, AT",
+    "artiesten": "",
+    "meer_info_url": ""
   }
 ]
