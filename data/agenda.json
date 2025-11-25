@@ -90,16 +90,6 @@
     "meer_info_url": ""
   },
   {
-    "titel": "Gastoptredens bij een grote Vlaamse artiest",
-    "foto_url": "img/evenementen/GE_07165.jpg",
-    "extra": "tbc",
-    "datum": "4-5-6-11-12 april 2026",
-    "tijd": "tbc",
-    "locatie": "tbc",
-    "artiesten": "tbc",
-    "meer_info_url": ""
-  },
-  {
     "titel": "800 Jaar Cathedrale Gudula",
     "foto_url": "img/evenementen/Gudula800.jpg",
     "extra": "Brussels Philharmonic Orchestra",
@@ -108,6 +98,16 @@
     "locatie": "Sint- Michiels- en Sint-Goedelekathedraal",
     "artiesten": "Marie-Noëlle de Callataÿ, Cécile Latschenko, Charles Dekeyser",
     "meer_info_url": "https://bpho.be/index.php/nl/concert/gudula26-le-concert-des-800-ans"
+  },
+  {
+    "titel": "Gastoptredens bij een grote Vlaamse artiest",
+    "foto_url": "img/evenementen/GE_07165.jpg",
+    "extra": "tbc",
+    "datum": "4-5-6-11-12 april 2026",
+    "tijd": "tbc",
+    "locatie": "tbc",
+    "artiesten": "tbc",
+    "meer_info_url": ""
   },
   {
     "titel": "Opera Avanti",
