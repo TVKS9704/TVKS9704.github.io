@@ -128,5 +128,15 @@
     "locatie": "tbc, Wiener Festwochen, AT",
     "artiesten": "",
     "meer_info_url": ""
+  },
+  {
+    "titel": "DEBUUT Johannespassion Eersel",
+    "foto_url": "img/evenementen/Bach.jpg",
+    "extra": "",
+    "datum": "3 april 2025",
+    "tijd": "20u15",
+    "locatie": "St. Willibrorduskerk  Kerkstraat 31 Eersel",
+    "artiesten": "tbc",
+    "meer_info_url": "https://passioneleprojecten.nl/"
   }
 ]
