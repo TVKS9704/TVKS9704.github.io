@@ -90,16 +90,6 @@
     "meer_info_url": "https://www.coolkunstencultuur.nl/theater/agenda/seizoen-2025-2026/opera-avanti/"
   },
   {
-    "titel": "Parsifal - R. Wagner",
-    "foto_url": "img/evenementen/WienerFestwochenLogo.jpg",
-    "extra": "Vierte Knappe",
-    "datum": "15-17-19-22 juni 2026",
-    "tijd": "tbc",
-    "locatie": "tbc, Wiener Festwochen, AT",
-    "artiesten": "",
-    "meer_info_url": ""
-  },
-  {
     "titel": "Krönungsmesse met Schola Cantorum",
     "foto_url": "img/evenementen/Mozart.png",
     "extra": "Mmv Ghent Symphony Orchestra olv Siewald Degraeve",
@@ -108,5 +98,15 @@
     "locatie": "Sint-Baafskathedraal, Gent",
     "artiesten": "Hilde Coppé, Pieter De Praetere, Kris Belligh",
     "meer_info_url": "https://www.scholacantorum.be/event/jaarconcert2026/"
+  },
+  {
+    "titel": "Parsifal - R. Wagner",
+    "foto_url": "img/evenementen/WienerFestwochenLogo.jpg",
+    "extra": "Vierte Knappe",
+    "datum": "15-17-19-22 juni 2026",
+    "tijd": "tbc",
+    "locatie": "tbc, Wiener Festwochen, AT",
+    "artiesten": "",
+    "meer_info_url": ""
   }
 ]
