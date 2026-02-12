@@ -50,16 +50,6 @@
     "meer_info_url": "https://passioneleprojecten.nl/agenda/"
   },
   {
-    "titel": "Gastoptredens bij Christoff",
-    "foto_url": "img/evenementen/GE_07165.jpg",
-    "extra": "Alken, Lier, Wetteren, Roeselare en Koekelberg",
-    "datum": "4-5-6-12-18 april 2026",
-    "tijd": "",
-    "locatie": "",
-    "artiesten": "",
-    "meer_info_url": "https://www.christoff.be/kerkconcerten"
-  },
-  {
     "titel": "Requiem Mozart - A Grand Goodbye",
     "foto_url": "img/evenementen/a Grand Goodbye.jpg",
     "extra": "",
@@ -68,6 +58,16 @@
     "locatie": "Sint-Salvatorkerk Harelbeke",
     "artiesten": "Louise Kuyvenhoven, Marie Eichler, Timothy Veryser, Lucas Cortoos",
     "meer_info_url": "https://www.uitinvlaanderen.be/agenda/e/a-grand-goodbye/e52a5f55-3273-4de0-bf0e-edc60d8f4c4d"
+  },
+  {
+    "titel": "Gastoptredens bij Christoff",
+    "foto_url": "img/evenementen/GE_07165.jpg",
+    "extra": "Alken, Lier, Wetteren, Roeselare en Koekelberg",
+    "datum": "4-5-6-12-18 april 2026",
+    "tijd": "",
+    "locatie": "",
+    "artiesten": "",
+    "meer_info_url": "https://www.christoff.be/kerkconcerten"
   },
   {
     "titel": "Opera Avanti",
