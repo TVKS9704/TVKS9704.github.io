@@ -20,16 +20,6 @@
     "meer_info_url": "https://desingel.be/nl/programma/ook-in-de-singel/dechorale-de-passies-van-js-bach"
   },
   {
-    "titel": "Passieconcert Brugge",
-    "foto_url": "img/evenementen/DECHORALE_2.png",
-    "extra": "DeChorale",
-    "datum": "29 maart 2026",
-    "tijd": "15:00",
-    "locatie": "Concertgebouw, Brugge",
-    "artiesten": "",
-    "meer_info_url": "https://www.concertgebouw.be/nl/de-passies-van-j-s-bach#:~:text=Bachs%20passies%20behoren%20tot%20de,enkel%20het%20libretto%20van%20Picander."
-  },
-  {
     "titel": "Averbode Klassiek",
     "foto_url": "img/evenementen/Abdij Averbode.jpg",
     "extra": "Recital met Louise Guenter, Timothy Veryser en Getacine Pegorim",
@@ -38,6 +28,16 @@
     "locatie": "Averbode, Abdijstraat 1",
     "artiesten": "",
     "meer_info_url": "https://www.averbodeklassiek.com/programma"
+  },
+  {
+    "titel": "Passieconcert Brugge",
+    "foto_url": "img/evenementen/DECHORALE_2.png",
+    "extra": "DeChorale",
+    "datum": "29 maart 2026",
+    "tijd": "15:00",
+    "locatie": "Concertgebouw, Brugge",
+    "artiesten": "",
+    "meer_info_url": "https://www.concertgebouw.be/nl/de-passies-van-j-s-bach#:~:text=Bachs%20passies%20behoren%20tot%20de,enkel%20het%20libretto%20van%20Picander."
   },
   {
     "titel": "DEBUUT Johannespassion Eersel",
