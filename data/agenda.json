@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Passieconcert Antwerpen",
-    "foto_url": "img/evenementen/DECHORALE.png",
-    "extra": "DeChorale",
-    "datum": "22 maart 2026",
-    "tijd": "15:00",
-    "locatie": "De Singel, Antwerpen",
-    "artiesten": "tbc",
-    "meer_info_url": ""
-  },
-  {
     "titel": "Galaconcert An evening at the opera",
     "foto_url": "img/evenementen/Galaconcert foto.jpeg",
     "extra": "Tickets via timothyveryser@hotmail.be of 0495/53.83.25",
@@ -18,6 +8,16 @@
     "locatie": "Kerk Beerst",
     "artiesten": "Emma Posman (sopraan), Timothy Veryser (tenor) Florestan Battaillie (pianist)",
     "meer_info_url": "https://www.uitinvlaanderen.be/agenda/e/galaconcert-an-evening-at-the-opera/dc0f5db1-1478-420e-ba3d-9cf392f1449d"
+  },
+  {
+    "titel": "Passieconcert Antwerpen",
+    "foto_url": "img/evenementen/DECHORALE.png",
+    "extra": "DeChorale",
+    "datum": "22 maart 2026",
+    "tijd": "15:00",
+    "locatie": "De Singel, Antwerpen",
+    "artiesten": "tbc",
+    "meer_info_url": ""
   },
   {
     "titel": "Passieconcert Brugge",
