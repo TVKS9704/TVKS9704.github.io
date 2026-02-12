@@ -50,16 +50,6 @@
     "meer_info_url": "https://www.christoff.be/kerkconcerten"
   },
   {
-    "titel": "Opera Avanti",
-    "foto_url": "img/evenementen/TheaterCool.jpg",
-    "extra": "Wiener Café vol Romantiek",
-    "datum": "10 mei 2026",
-    "tijd": "15:00",
-    "locatie": "Theater Cool, Heerhugowaard, NL",
-    "artiesten": "Timothy Veryser (tenor), Denzil Delaere (tenor), Gianna Canete Gallo, Karen Vermeiren, e.a.",
-    "meer_info_url": "https://www.coolkunstencultuur.nl/theater/agenda/seizoen-2025-2026/opera-avanti/"
-  },
-  {
     "titel": "Averbode Klassiek",
     "foto_url": "img/evenementen/Abdij Averbode.jpg",
     "extra": "Recital met Louise Guenter, Timothy Veryser en Getacine Pegorim",
@@ -68,6 +58,16 @@
     "locatie": "Averbode, Abdijstraat 1",
     "artiesten": "",
     "meer_info_url": "https://www.averbodeklassiek.com/programma"
+  },
+  {
+    "titel": "Opera Avanti",
+    "foto_url": "img/evenementen/TheaterCool.jpg",
+    "extra": "Wiener Café vol Romantiek",
+    "datum": "10 mei 2026",
+    "tijd": "15:00",
+    "locatie": "Theater Cool, Heerhugowaard, NL",
+    "artiesten": "Timothy Veryser (tenor), Denzil Delaere (tenor), Gianna Canete Gallo, Karen Vermeiren, e.a.",
+    "meer_info_url": "https://www.coolkunstencultuur.nl/theater/agenda/seizoen-2025-2026/opera-avanti/"
   },
   {
     "titel": "Parsifal - R. Wagner",
