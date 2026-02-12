@@ -30,16 +30,6 @@
     "meer_info_url": "https://desingel.be/nl/programma/ook-in-de-singel/dechorale-de-passies-van-js-bach"
   },
   {
-    "titel": "Passieconcert Brugge",
-    "foto_url": "img/evenementen/DECHORALE_2.png",
-    "extra": "DeChorale",
-    "datum": "29 maart 2026",
-    "tijd": "15:00",
-    "locatie": "Concertgebouw, Brugge",
-    "artiesten": "",
-    "meer_info_url": "https://www.concertgebouw.be/nl/de-passies-van-j-s-bach#:~:text=Bachs%20passies%20behoren%20tot%20de,enkel%20het%20libretto%20van%20Picander."
-  },
-  {
     "titel": "Requiem Mozart - A Grand Goodbye",
     "foto_url": "img/evenementen/a Grand Goodbye.jpg",
     "extra": "",
@@ -48,6 +38,16 @@
     "locatie": "Sint-Salvatorkerk Harelbeke",
     "artiesten": "Louise Kuyvenhoven, Marie Eichler, Timothy Veryser, Lucas Cortoos",
     "meer_info_url": "https://www.uitinvlaanderen.be/agenda/e/a-grand-goodbye/e52a5f55-3273-4de0-bf0e-edc60d8f4c4d"
+  },
+  {
+    "titel": "Passieconcert Brugge",
+    "foto_url": "img/evenementen/DECHORALE_2.png",
+    "extra": "DeChorale",
+    "datum": "29 maart 2026",
+    "tijd": "15:00",
+    "locatie": "Concertgebouw, Brugge",
+    "artiesten": "",
+    "meer_info_url": "https://www.concertgebouw.be/nl/de-passies-van-j-s-bach#:~:text=Bachs%20passies%20behoren%20tot%20de,enkel%20het%20libretto%20van%20Picander."
   },
   {
     "titel": "DEBUUT Johannespassion Eersel",
