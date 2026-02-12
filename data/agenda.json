@@ -60,16 +60,6 @@
     "meer_info_url": "https://www.coolkunstencultuur.nl/theater/agenda/seizoen-2025-2026/opera-avanti/"
   },
   {
-    "titel": "Parsifal - R. Wagner",
-    "foto_url": "img/evenementen/WienerFestwochenLogo.jpg",
-    "extra": "Vierte Knappe",
-    "datum": "15-17-19-22 juni 2026",
-    "tijd": "tbc",
-    "locatie": "tbc, Wiener Festwochen, AT",
-    "artiesten": "",
-    "meer_info_url": ""
-  },
-  {
     "titel": "Averbode Klassiek",
     "foto_url": "img/evenementen/Abdij Averbode.jpg",
     "extra": "Recital met Louise Guenter, Timothy Veryser en Getacine Pegorim",
@@ -78,5 +68,15 @@
     "locatie": "Averbode, Abdijstraat 1",
     "artiesten": "",
     "meer_info_url": "https://www.averbodeklassiek.com/programma"
+  },
+  {
+    "titel": "Parsifal - R. Wagner",
+    "foto_url": "img/evenementen/WienerFestwochenLogo.jpg",
+    "extra": "Vierte Knappe",
+    "datum": "15-17-19-22 juni 2026",
+    "tijd": "tbc",
+    "locatie": "tbc, Wiener Festwochen, AT",
+    "artiesten": "",
+    "meer_info_url": ""
   }
 ]
