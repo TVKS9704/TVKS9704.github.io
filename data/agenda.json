@@ -10,16 +10,6 @@
     "meer_info_url": "https://www.uitinvlaanderen.be/agenda/e/galaconcert-an-evening-at-the-opera/dc0f5db1-1478-420e-ba3d-9cf392f1449d"
   },
   {
-    "titel": "Passieconcert Antwerpen",
-    "foto_url": "img/evenementen/DECHORALE.png",
-    "extra": "DeChorale",
-    "datum": "22 maart 2026",
-    "tijd": "15:00",
-    "locatie": "De Singel, Antwerpen",
-    "artiesten": "",
-    "meer_info_url": "https://desingel.be/nl/programma/ook-in-de-singel/dechorale-de-passies-van-js-bach"
-  },
-  {
     "titel": "Averbode Klassiek",
     "foto_url": "img/evenementen/Abdij Averbode.jpg",
     "extra": "Recital met Louise Guenter, Timothy Veryser en Getacine Pegorim",
@@ -28,6 +18,16 @@
     "locatie": "Averbode, Abdijstraat 1",
     "artiesten": "",
     "meer_info_url": "https://www.averbodeklassiek.com/programma"
+  },
+  {
+    "titel": "Passieconcert Antwerpen",
+    "foto_url": "img/evenementen/DECHORALE.png",
+    "extra": "DeChorale",
+    "datum": "22 maart 2026",
+    "tijd": "15:00",
+    "locatie": "De Singel, Antwerpen",
+    "artiesten": "",
+    "meer_info_url": "https://desingel.be/nl/programma/ook-in-de-singel/dechorale-de-passies-van-js-bach"
   },
   {
     "titel": "Passieconcert Brugge",
