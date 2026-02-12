@@ -80,16 +80,6 @@
     "meer_info_url": "https://schoolofartsgent.be/agenda/timothy-veryser-anna-alvizou"
   },
   {
-    "titel": "Opera Avanti",
-    "foto_url": "img/evenementen/TheaterCool.jpg",
-    "extra": "Wiener Café vol Romantiek",
-    "datum": "10 mei 2026",
-    "tijd": "15:00",
-    "locatie": "Theater Cool, Heerhugowaard, NL",
-    "artiesten": "Timothy Veryser (tenor), Denzil Delaere (tenor), Gianna Canete Gallo, Karen Vermeiren, e.a.",
-    "meer_info_url": "https://www.coolkunstencultuur.nl/theater/agenda/seizoen-2025-2026/opera-avanti/"
-  },
-  {
     "titel": "Krönungsmesse met Schola Cantorum",
     "foto_url": "img/evenementen/Mozart.png",
     "extra": "Mmv Ghent Symphony Orchestra olv Siewald Degraeve",
@@ -98,6 +88,16 @@
     "locatie": "Sint-Baafskathedraal, Gent",
     "artiesten": "Hilde Coppé, Pieter De Praetere, Kris Belligh",
     "meer_info_url": "https://www.scholacantorum.be/event/jaarconcert2026/"
+  },
+  {
+    "titel": "Opera Avanti",
+    "foto_url": "img/evenementen/TheaterCool.jpg",
+    "extra": "Wiener Café vol Romantiek",
+    "datum": "10 mei 2026",
+    "tijd": "15:00",
+    "locatie": "Theater Cool, Heerhugowaard, NL",
+    "artiesten": "Timothy Veryser (tenor), Denzil Delaere (tenor), Gianna Canete Gallo, Karen Vermeiren, e.a.",
+    "meer_info_url": "https://www.coolkunstencultuur.nl/theater/agenda/seizoen-2025-2026/opera-avanti/"
   },
   {
     "titel": "Parsifal - R. Wagner",
