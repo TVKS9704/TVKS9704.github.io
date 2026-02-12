@@ -80,16 +80,6 @@
     "meer_info_url": "https://www.coolkunstencultuur.nl/theater/agenda/seizoen-2025-2026/opera-avanti/"
   },
   {
-    "titel": "Parsifal - R. Wagner",
-    "foto_url": "img/evenementen/WienerFestwochenLogo.jpg",
-    "extra": "Vierte Knappe",
-    "datum": "15-17-19-22 juni 2026",
-    "tijd": "tbc",
-    "locatie": "tbc, Wiener Festwochen, AT",
-    "artiesten": "",
-    "meer_info_url": ""
-  },
-  {
     "titel": "Recital Timothy Veryser & Anna Alvizou",
     "foto_url": "img/evenementen/bb899df2-feb2-4abc-91f5-5044ca960587.jpg",
     "extra": "Werk van Schumann, Schubert, Wolf, Copland, Barber",
@@ -98,5 +88,15 @@
     "locatie": "Miry Concertzaal, Gent",
     "artiesten": "",
     "meer_info_url": "https://schoolofartsgent.be/agenda/timothy-veryser-anna-alvizou"
+  },
+  {
+    "titel": "Parsifal - R. Wagner",
+    "foto_url": "img/evenementen/WienerFestwochenLogo.jpg",
+    "extra": "Vierte Knappe",
+    "datum": "15-17-19-22 juni 2026",
+    "tijd": "tbc",
+    "locatie": "tbc, Wiener Festwochen, AT",
+    "artiesten": "",
+    "meer_info_url": ""
   }
 ]
