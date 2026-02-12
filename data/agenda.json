@@ -88,5 +88,15 @@
     "locatie": "tbc, Wiener Festwochen, AT",
     "artiesten": "",
     "meer_info_url": ""
+  },
+  {
+    "titel": "Recital Timothy Veryser & Anna Alvizou",
+    "foto_url": "img/evenementen/bb899df2-feb2-4abc-91f5-5044ca960587.jpg",
+    "extra": "Werk van Schumann, Schubert, Wolf, Copland, Barber",
+    "datum": "21 april 2026",
+    "tijd": "20:00",
+    "locatie": "Miry Concertzaal, Gent",
+    "artiesten": "",
+    "meer_info_url": "https://schoolofartsgent.be/agenda/timothy-veryser-anna-alvizou"
   }
 ]
