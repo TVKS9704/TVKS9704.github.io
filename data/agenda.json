@@ -40,16 +40,6 @@
     "meer_info_url": "https://www.concertgebouw.be/nl/de-passies-van-j-s-bach#:~:text=Bachs%20passies%20behoren%20tot%20de,enkel%20het%20libretto%20van%20Picander."
   },
   {
-    "titel": "DEBUUT Johannespassion Eersel",
-    "foto_url": "img/evenementen/Bach.jpg",
-    "extra": "",
-    "datum": "3 april 2025",
-    "tijd": "20u15",
-    "locatie": "St. Willibrorduskerk  Kerkstraat 31 Eersel",
-    "artiesten": "",
-    "meer_info_url": "https://passioneleprojecten.nl/agenda/"
-  },
-  {
     "titel": "Requiem Mozart - A Grand Goodbye",
     "foto_url": "img/evenementen/a Grand Goodbye.jpg",
     "extra": "",
@@ -58,6 +48,16 @@
     "locatie": "Sint-Salvatorkerk Harelbeke",
     "artiesten": "Louise Kuyvenhoven, Marie Eichler, Timothy Veryser, Lucas Cortoos",
     "meer_info_url": "https://www.uitinvlaanderen.be/agenda/e/a-grand-goodbye/e52a5f55-3273-4de0-bf0e-edc60d8f4c4d"
+  },
+  {
+    "titel": "DEBUUT Johannespassion Eersel",
+    "foto_url": "img/evenementen/Bach.jpg",
+    "extra": "",
+    "datum": "3 april 2025",
+    "tijd": "20u15",
+    "locatie": "St. Willibrorduskerk  Kerkstraat 31 Eersel",
+    "artiesten": "",
+    "meer_info_url": "https://passioneleprojecten.nl/agenda/"
   },
   {
     "titel": "Gastoptredens bij Christoff",
