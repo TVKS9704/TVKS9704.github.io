@@ -20,16 +20,6 @@
     "meer_info_url": ""
   },
   {
-    "titel": "DEBUUT Johannespassion Eersel",
-    "foto_url": "img/evenementen/Bach.jpg",
-    "extra": "",
-    "datum": "3 april 2025",
-    "tijd": "20u15",
-    "locatie": "St. Willibrorduskerk  Kerkstraat 31 Eersel",
-    "artiesten": "tbc",
-    "meer_info_url": "https://passioneleprojecten.nl/"
-  },
-  {
     "titel": "Galaconcert An evening at the opera",
     "foto_url": "img/evenementen/Galaconcert foto.jpeg",
     "extra": "Tickets via timothyveryser@hotmail.be of 0495/53.83.25",
@@ -38,6 +28,16 @@
     "locatie": "Kerk Beerst",
     "artiesten": "Emma Posman (sopraan), Timothy Veryser (tenor) Florestan Battaillie (pianist)",
     "meer_info_url": "https://www.uitinvlaanderen.be/agenda/e/galaconcert-an-evening-at-the-opera/dc0f5db1-1478-420e-ba3d-9cf392f1449d"
+  },
+  {
+    "titel": "DEBUUT Johannespassion Eersel",
+    "foto_url": "img/evenementen/Bach.jpg",
+    "extra": "",
+    "datum": "3 april 2025",
+    "tijd": "20u15",
+    "locatie": "St. Willibrorduskerk  Kerkstraat 31 Eersel",
+    "artiesten": "tbc",
+    "meer_info_url": "https://passioneleprojecten.nl/"
   },
   {
     "titel": "Gastoptredens bij een grote Vlaamse artiest",
