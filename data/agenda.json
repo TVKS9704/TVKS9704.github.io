@@ -40,16 +40,6 @@
     "meer_info_url": ""
   },
   {
-    "titel": "Opera Avanti",
-    "foto_url": "img/evenementen/TheaterCool.jpg",
-    "extra": "Wiener Café vol Romantiek",
-    "datum": "10 mei 2026",
-    "tijd": "15:00",
-    "locatie": "Theater Cool, Heerhugowaard, NL",
-    "artiesten": "Timothy Veryser (tenor), Denzil Delaere (tenor), Gianna Canete Gallo, Karen Vermeiren, e.a.",
-    "meer_info_url": "https://www.coolkunstencultuur.nl/theater/agenda/seizoen-2025-2026/opera-avanti/"
-  },
-  {
     "titel": "Galaconcert An evening at the opera",
     "foto_url": "img/evenementen/Galaconcert foto.jpeg",
     "extra": "Tickets via timothyveryser@hotmail.be of 0495/53.83.25",
@@ -58,6 +48,16 @@
     "locatie": "Kerk Beerst",
     "artiesten": "Emma Posman (sopraan), Timothy Veryser (tenor) Florestan Battaillie (pianist)",
     "meer_info_url": "https://www.uitinvlaanderen.be/agenda/e/galaconcert-an-evening-at-the-opera/dc0f5db1-1478-420e-ba3d-9cf392f1449d"
+  },
+  {
+    "titel": "Opera Avanti",
+    "foto_url": "img/evenementen/TheaterCool.jpg",
+    "extra": "Wiener Café vol Romantiek",
+    "datum": "10 mei 2026",
+    "tijd": "15:00",
+    "locatie": "Theater Cool, Heerhugowaard, NL",
+    "artiesten": "Timothy Veryser (tenor), Denzil Delaere (tenor), Gianna Canete Gallo, Karen Vermeiren, e.a.",
+    "meer_info_url": "https://www.coolkunstencultuur.nl/theater/agenda/seizoen-2025-2026/opera-avanti/"
   },
   {
     "titel": "Parsifal - R. Wagner",
