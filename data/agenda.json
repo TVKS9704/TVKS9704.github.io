@@ -100,16 +100,6 @@
     "meer_info_url": "https://desteigerboom.zapcms.voltaweb.be/aria-mania"
   },
   {
-    "titel": "Matthäuspassion Beerse - Meerhout",
-    "foto_url": "img/evenementen/images_2.jpg",
-    "extra": "Tenorsolo in Matthäuspassion",
-    "datum": "25-26 maart 2027",
-    "tijd": "tbc",
-    "locatie": "Beerse en Meerhout",
-    "artiesten": "tbc",
-    "meer_info_url": "tbc"
-  },
-  {
     "titel": "Recital met Anna Alvizou - Gent",
     "foto_url": "img/evenementen/bb899df2-feb2-4abc-91f5-5044ca960587_1.jpg",
     "extra": "Ensemble d'Atlántico",
@@ -118,6 +108,16 @@
     "locatie": "Madonna Feestzaal",
     "artiesten": "Anna Alvizou en Timothy Veryser",
     "meer_info_url": ""
+  },
+  {
+    "titel": "Matthäuspassion Beerse - Meerhout",
+    "foto_url": "img/evenementen/images_2.jpg",
+    "extra": "Tenorsolo in Matthäuspassion",
+    "datum": "25-26 maart 2027",
+    "tijd": "tbc",
+    "locatie": "Beerse en Meerhout",
+    "artiesten": "tbc",
+    "meer_info_url": "tbc"
   },
   {
     "titel": "Messiah - Händel (DEBUUT)",
