@@ -20,16 +20,6 @@
     "meer_info_url": ""
   },
   {
-    "titel": "Cantissimo",
-    "foto_url": "img/evenementen/Wozzeck_Toulouse21_a_MircoMagliocca.jpg",
-    "extra": "Concert met l’Orchestre de l’Opéra Royal de Wallonie-Liège olv Matteo Dal Maso",
-    "datum": "9 oktober 2026",
-    "tijd": "20:00",
-    "locatie": "Wolubilis, Brussel",
-    "artiesten": "Stéphane Degout, Sophie Koch, Solisten Koningin Elisabeth Muziekkapel",
-    "meer_info_url": "https://www.wolubilis.be/a-voir/cantissimo/"
-  },
-  {
     "titel": "Concert Koetshuis Gent",
     "foto_url": "img/evenementen/WhatsApp Image 2025-04-23 at 08.56.17_4.jpeg",
     "extra": "tbc",
@@ -38,6 +28,16 @@
     "locatie": "tbc",
     "artiesten": "Sopraan: Emma Posman, Tenor: Timothy Veryser, Pianist: Florestan Bataillie",
     "meer_info_url": "tbc"
+  },
+  {
+    "titel": "Cantissimo",
+    "foto_url": "img/evenementen/Wozzeck_Toulouse21_a_MircoMagliocca.jpg",
+    "extra": "Concert met l’Orchestre de l’Opéra Royal de Wallonie-Liège olv Matteo Dal Maso",
+    "datum": "9 oktober 2026",
+    "tijd": "20:00",
+    "locatie": "Wolubilis, Brussel",
+    "artiesten": "Stéphane Degout, Sophie Koch, Solisten Koningin Elisabeth Muziekkapel",
+    "meer_info_url": "https://www.wolubilis.be/a-voir/cantissimo/"
   },
   {
     "titel": "Herfstconcert Woumen (eigen organisatie)",
