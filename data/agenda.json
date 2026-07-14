@@ -120,16 +120,6 @@
     "meer_info_url": "tbc"
   },
   {
-    "titel": "Cosi fan tutte (DEBUUT)",
-    "foto_url": "img/evenementen/images_4.jpg",
-    "extra": "Opera van Mozart - rol: Ferrando",
-    "datum": "11 april 2027",
-    "tijd": "11:00",
-    "locatie": "Opéra Nice Côte d'Azur",
-    "artiesten": "Solisten Koningin Elisabeth Muziekkapel",
-    "meer_info_url": "https://provence-alpes-cotedazur.com/que-faire/sortir/toutes-les-sorties/cosi-fan-tutte-en-famille-nice-fr-6529141/"
-  },
-  {
     "titel": "Recital met Anna Alvizou - Gent",
     "foto_url": "img/evenementen/bb899df2-feb2-4abc-91f5-5044ca960587_1.jpg",
     "extra": "Ensemble d'Atlántico",
@@ -138,5 +128,15 @@
     "locatie": "Madonna Feestzaal",
     "artiesten": "Anna Alvizou en Timothy Veryser",
     "meer_info_url": ""
+  },
+  {
+    "titel": "Cosi fan tutte (DEBUUT)",
+    "foto_url": "img/evenementen/images_4.jpg",
+    "extra": "Opera van Mozart - rol: Ferrando",
+    "datum": "11 april 2027",
+    "tijd": "11:00",
+    "locatie": "Opéra Nice Côte d'Azur",
+    "artiesten": "Solisten Koningin Elisabeth Muziekkapel",
+    "meer_info_url": "https://provence-alpes-cotedazur.com/que-faire/sortir/toutes-les-sorties/cosi-fan-tutte-en-famille-nice-fr-6529141/"
   }
 ]
