@@ -48,5 +48,15 @@
     "locatie": "Opera Antwerpen",
     "artiesten": "",
     "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2026-2027/la-traviata"
+  },
+  {
+    "titel": "Requiem Mozart",
+    "foto_url": "img/evenementen/070426 Salle Henry Le Boeuf 35.jpg",
+    "extra": "Samen met Brussels Choral Society",
+    "datum": "28 november 2026",
+    "tijd": "20:00",
+    "locatie": "BOZAR, Brussel",
+    "artiesten": "Dirigent: Joris Derder, Sopraan: Liesbeth Devos, Alt: Ekatarina Romanova, Tenor: Timothy Veryser, Bas: Charles Dekeyser, Orkest La Passione, Brussels Choral Society",
+    "meer_info_url": "https://www.brusselschoralsociety.com/nl/concertagenda/"
   }
 ]
