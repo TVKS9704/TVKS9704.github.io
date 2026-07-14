@@ -50,16 +50,6 @@
     "meer_info_url": "https://www.brusselschoralsociety.com/nl/concertagenda/"
   },
   {
-    "titel": "La Traviata (DEBUUT)",
-    "foto_url": "img/evenementen/a5cP6000004eNy6IAE_1740x1218.jpg",
-    "extra": "Opera Ballet Vlaanderen - Rol: Gastone - 12 performances",
-    "datum": "13 december 2026 - 09 januari 2027",
-    "tijd": "15:00, 18:00, 20:00",
-    "locatie": "Opera Antwerpen",
-    "artiesten": "",
-    "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2026-2027/la-traviata"
-  },
-  {
     "titel": "Recital met Anna Alvizou - Gent",
     "foto_url": "img/evenementen/bb899df2-feb2-4abc-91f5-5044ca960587_1.jpg",
     "extra": "Ensemble d'Atlántico",
@@ -68,6 +58,16 @@
     "locatie": "Madonna Feestzaal",
     "artiesten": "Anna Alvizou en Timothy Veryser",
     "meer_info_url": ""
+  },
+  {
+    "titel": "La Traviata (DEBUUT)",
+    "foto_url": "img/evenementen/a5cP6000004eNy6IAE_1740x1218.jpg",
+    "extra": "Opera Ballet Vlaanderen - Rol: Gastone - 12 performances",
+    "datum": "13 december 2026 - 09 januari 2027",
+    "tijd": "15:00, 18:00, 20:00",
+    "locatie": "Opera Antwerpen",
+    "artiesten": "",
+    "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2026-2027/la-traviata"
   },
   {
     "titel": "Der Schmied von Gent (DEBUUT)",
