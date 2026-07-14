@@ -100,16 +100,6 @@
     "meer_info_url": "tbc"
   },
   {
-    "titel": "Messiah - Händel (DEBUUT)",
-    "foto_url": "img/evenementen/images_3.jpg",
-    "extra": "tbc",
-    "datum": "2-3-4 april 2027",
-    "tijd": "tbc",
-    "locatie": "De Haan, Waregem, Concertgebouw Brugge",
-    "artiesten": "Dirigent: Werner Van Mechelen, Euterpe Baroque Consort, Hendrickje Van Kerckhove, Lien Haegeman, Timothy Veryser, Huub Claessens",
-    "meer_info_url": "tbc"
-  },
-  {
     "titel": "Aria Mania",
     "foto_url": "img/evenementen/WhatsApp Image 2025-04-23 at 08.56.17_3.jpeg",
     "extra": "",
@@ -118,6 +108,16 @@
     "locatie": "CC De Steiger Boom",
     "artiesten": "Sopraan: Emma Posman, Tenor: Timothy Veryser, Pianist: Florestan Bataillie",
     "meer_info_url": "https://desteigerboom.zapcms.voltaweb.be/aria-mania"
+  },
+  {
+    "titel": "Messiah - Händel (DEBUUT)",
+    "foto_url": "img/evenementen/images_3.jpg",
+    "extra": "tbc",
+    "datum": "2-3-4 april 2027",
+    "tijd": "tbc",
+    "locatie": "De Haan, Waregem, Concertgebouw Brugge",
+    "artiesten": "Dirigent: Werner Van Mechelen, Euterpe Baroque Consort, Hendrickje Van Kerckhove, Lien Haegeman, Timothy Veryser, Huub Claessens",
+    "meer_info_url": "tbc"
   },
   {
     "titel": "Cosi fan tutte (DEBUUT)",
