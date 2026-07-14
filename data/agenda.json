@@ -70,16 +70,6 @@
     "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2026-2027/der-schmied-von-gent"
   },
   {
-    "titel": "Apero-Opera Ninove",
-    "foto_url": "img/evenementen/WhatsApp Image 2025-04-23 at 08.56.17_2.jpeg",
-    "extra": "",
-    "datum": "21 februari 2027",
-    "tijd": "15:00",
-    "locatie": "CC De Plomblom Ninove",
-    "artiesten": "Sopraan: Emma Posman, Tenor: Timothy Veryser, Pianist: Florestan Bataillie",
-    "meer_info_url": "https://www.ccdeplomblom.org/programma/posman"
-  },
-  {
     "titel": "Recital met Anna Alvizou - Gent",
     "foto_url": "img/evenementen/bb899df2-feb2-4abc-91f5-5044ca960587_1.jpg",
     "extra": "Ensemble d'Atlántico",
@@ -88,6 +78,16 @@
     "locatie": "Madonna Feestzaal",
     "artiesten": "Anna Alvizou en Timothy Veryser",
     "meer_info_url": ""
+  },
+  {
+    "titel": "Apero-Opera Ninove",
+    "foto_url": "img/evenementen/WhatsApp Image 2025-04-23 at 08.56.17_2.jpeg",
+    "extra": "",
+    "datum": "21 februari 2027",
+    "tijd": "15:00",
+    "locatie": "CC De Plomblom Ninove",
+    "artiesten": "Sopraan: Emma Posman, Tenor: Timothy Veryser, Pianist: Florestan Bataillie",
+    "meer_info_url": "https://www.ccdeplomblom.org/programma/posman"
   },
   {
     "titel": "Lohengrin (DEBUUT)",
