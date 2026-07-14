@@ -40,16 +40,6 @@
     "meer_info_url": ""
   },
   {
-    "titel": "Symphony of Giving: Carmina Burana",
-    "foto_url": "img/evenementen/images.jpg",
-    "extra": "Carmina Burana Orff & Beethoven Koorfantasie",
-    "datum": "25 oktober 2026",
-    "tijd": "15:00",
-    "locatie": "Elisabethzaal Antwerpen",
-    "artiesten": "Dirigent: Joris Decolvenaer, Sopraan: Elisa Caluwaerts, Tenor: Timothy Veryser, Bariton: Joris Derder",
-    "meer_info_url": "https://symphonyofgiving.be/#concert"
-  },
-  {
     "titel": "Concert Koetshuis Gent",
     "foto_url": "img/evenementen/WhatsApp Image 2025-04-23 at 08.56.17_4.jpeg",
     "extra": "tbc",
@@ -58,6 +48,16 @@
     "locatie": "tbc",
     "artiesten": "Sopraan: Emma Posman, Tenor: Timothy Veryser, Pianist: Florestan Bataillie",
     "meer_info_url": "tbc"
+  },
+  {
+    "titel": "Symphony of Giving: Carmina Burana",
+    "foto_url": "img/evenementen/images.jpg",
+    "extra": "Carmina Burana Orff & Beethoven Koorfantasie",
+    "datum": "25 oktober 2026",
+    "tijd": "15:00",
+    "locatie": "Elisabethzaal Antwerpen",
+    "artiesten": "Dirigent: Joris Decolvenaer, Sopraan: Elisa Caluwaerts, Tenor: Timothy Veryser, Bariton: Joris Derder",
+    "meer_info_url": "https://symphonyofgiving.be/#concert"
   },
   {
     "titel": "Requiem Mozart",
