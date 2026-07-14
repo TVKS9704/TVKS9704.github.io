@@ -28,5 +28,15 @@
     "locatie": "Kerk Woumen",
     "artiesten": "Sopraan: Noa Vanden Broucke, Pianiste: Lore Hermans, Tenor: Timothy Veryser",
     "meer_info_url": ""
+  },
+  {
+    "titel": "Symphony of Giving: Carmina Burana",
+    "foto_url": "img/evenementen/images.jpg",
+    "extra": "Carmina Burana Orff & Beethoven Koorfantasie",
+    "datum": "25 oktober 2026",
+    "tijd": "15:00",
+    "locatie": "Elisabethzaal Antwerpen",
+    "artiesten": "Dirigent: Joris Decolvenaer, Sopraan: Elisa Caluwaerts, Tenor: Timothy Veryser, Bariton: Joris Derder",
+    "meer_info_url": "https://symphonyofgiving.be/#concert"
   }
 ]
