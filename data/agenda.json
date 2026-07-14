@@ -80,16 +80,6 @@
     "meer_info_url": "https://www.ccdeplomblom.org/programma/posman"
   },
   {
-    "titel": "Lohengrin (DEBUUT)",
-    "foto_url": "img/evenementen/images_1.jpg",
-    "extra": "Opera van Wagner - Rol: 1. Brabantische Edle",
-    "datum": "11 maart 2027 - 21 maart 2027",
-    "tijd": "15:00, 18:30",
-    "locatie": "Bijloke Gent, Elisabethzaal Antwerpen",
-    "artiesten": "",
-    "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2026-2027/lohengrin"
-  },
-  {
     "titel": "Recital met Anna Alvizou - Gent",
     "foto_url": "img/evenementen/bb899df2-feb2-4abc-91f5-5044ca960587_1.jpg",
     "extra": "Ensemble d'Atlántico",
@@ -98,6 +88,16 @@
     "locatie": "Madonna Feestzaal",
     "artiesten": "Anna Alvizou en Timothy Veryser",
     "meer_info_url": ""
+  },
+  {
+    "titel": "Lohengrin (DEBUUT)",
+    "foto_url": "img/evenementen/images_1.jpg",
+    "extra": "Opera van Wagner - Rol: 1. Brabantische Edle",
+    "datum": "11 maart 2027 - 21 maart 2027",
+    "tijd": "15:00, 18:30",
+    "locatie": "Bijloke Gent, Elisabethzaal Antwerpen",
+    "artiesten": "",
+    "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2026-2027/lohengrin"
   },
   {
     "titel": "Aria Mania",
