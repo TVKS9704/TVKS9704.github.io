@@ -78,5 +78,15 @@
     "locatie": "CC De Plomblom Ninove",
     "artiesten": "Sopraan: Emma Posman, Tenor: Timothy Veryser, Pianist: Florestan Bataillie",
     "meer_info_url": "https://www.ccdeplomblom.org/programma/posman"
+  },
+  {
+    "titel": "Lohengrin",
+    "foto_url": "img/evenementen/images_1.jpg",
+    "extra": "Opera van Wagner - Rol: 1. Brabantische Edle",
+    "datum": "11 maart 2027 - 21 maart 2027",
+    "tijd": "15:00, 18:30",
+    "locatie": "Bijloke Gent, Elisabethzaal Antwerpen",
+    "artiesten": "",
+    "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2026-2027/lohengrin"
   }
 ]
