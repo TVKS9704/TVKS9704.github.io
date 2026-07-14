@@ -50,16 +50,6 @@
     "meer_info_url": "https://symphonyofgiving.be/#concert"
   },
   {
-    "titel": "Requiem Mozart",
-    "foto_url": "img/evenementen/070426 Salle Henry Le Boeuf 35.jpg",
-    "extra": "Samen met Brussels Choral Society",
-    "datum": "28 november 2026",
-    "tijd": "20:00",
-    "locatie": "BOZAR, Brussel",
-    "artiesten": "Dirigent: Joris Derder, Sopraan: Liesbeth Devos, Alt: Ekatarina Romanova, Tenor: Timothy Veryser, Bas: Charles Dekeyser, Orkest La Passione, Brussels Choral Society",
-    "meer_info_url": "https://www.brusselschoralsociety.com/nl/concertagenda/"
-  },
-  {
     "titel": "Concert Koetshuis Gent",
     "foto_url": "img/evenementen/WhatsApp Image 2025-04-23 at 08.56.17_4.jpeg",
     "extra": "tbc",
@@ -68,6 +58,16 @@
     "locatie": "tbc",
     "artiesten": "Sopraan: Emma Posman, Tenor: Timothy Veryser, Pianist: Florestan Bataillie",
     "meer_info_url": "tbc"
+  },
+  {
+    "titel": "Requiem Mozart",
+    "foto_url": "img/evenementen/070426 Salle Henry Le Boeuf 35.jpg",
+    "extra": "Samen met Brussels Choral Society",
+    "datum": "28 november 2026",
+    "tijd": "20:00",
+    "locatie": "BOZAR, Brussel",
+    "artiesten": "Dirigent: Joris Derder, Sopraan: Liesbeth Devos, Alt: Ekatarina Romanova, Tenor: Timothy Veryser, Bas: Charles Dekeyser, Orkest La Passione, Brussels Choral Society",
+    "meer_info_url": "https://www.brusselschoralsociety.com/nl/concertagenda/"
   },
   {
     "titel": "La Traviata (DEBUUT)",
