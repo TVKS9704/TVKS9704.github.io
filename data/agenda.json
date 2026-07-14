@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Orkestmis Moederkesdag",
-    "foto_url": "img/evenementen/The_Assumption_of_Virgin_Mary_-_Guido_Reni_(unframed).jpg",
-    "extra": "Charles Gounod: Messe solennelle de Sainte-Cécile",
-    "datum": "15 augustus 2026",
-    "tijd": "10:30",
-    "locatie": "Sint-Antoniuskerk, Antwerpen",
-    "artiesten": "Dirigent: Paul Dinneweth, Sopraan: An De Ridder, Tenor: Timothy Veryser, Bas: Charles Dekeyser",
-    "meer_info_url": "https://www.sintpaulusantwerpen.be/activiteit/orkestmis-voor-maria-tenhemelopneming-4/"
-  },
-  {
     "titel": "Recital met Anna Alvizou - Gent",
     "foto_url": "img/evenementen/bb899df2-feb2-4abc-91f5-5044ca960587_1.jpg",
     "extra": "Ensemble d'Atlántico",
@@ -18,6 +8,16 @@
     "locatie": "Madonna Feestzaal",
     "artiesten": "Anna Alvizou en Timothy Veryser",
     "meer_info_url": ""
+  },
+  {
+    "titel": "Orkestmis Moederkesdag",
+    "foto_url": "img/evenementen/The_Assumption_of_Virgin_Mary_-_Guido_Reni_(unframed).jpg",
+    "extra": "Charles Gounod: Messe solennelle de Sainte-Cécile",
+    "datum": "15 augustus 2026",
+    "tijd": "10:30",
+    "locatie": "Sint-Antoniuskerk, Antwerpen",
+    "artiesten": "Dirigent: Paul Dinneweth, Sopraan: An De Ridder, Tenor: Timothy Veryser, Bas: Charles Dekeyser",
+    "meer_info_url": "https://www.sintpaulusantwerpen.be/activiteit/orkestmis-voor-maria-tenhemelopneming-4/"
   },
   {
     "titel": "Cantissimo",
