@@ -90,16 +90,6 @@
     "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2026-2027/lohengrin"
   },
   {
-    "titel": "Aria Mania",
-    "foto_url": "img/evenementen/WhatsApp Image 2025-04-23 at 08.56.17_3.jpeg",
-    "extra": "",
-    "datum": "20 maart 2027",
-    "tijd": "20:15",
-    "locatie": "CC De Steiger Boom",
-    "artiesten": "Sopraan: Emma Posman, Tenor: Timothy Veryser, Pianist: Florestan Bataillie",
-    "meer_info_url": "https://desteigerboom.zapcms.voltaweb.be/aria-mania"
-  },
-  {
     "titel": "Recital met Anna Alvizou - Gent",
     "foto_url": "img/evenementen/bb899df2-feb2-4abc-91f5-5044ca960587_1.jpg",
     "extra": "Ensemble d'Atlántico",
@@ -108,6 +98,16 @@
     "locatie": "Madonna Feestzaal",
     "artiesten": "Anna Alvizou en Timothy Veryser",
     "meer_info_url": ""
+  },
+  {
+    "titel": "Aria Mania",
+    "foto_url": "img/evenementen/WhatsApp Image 2025-04-23 at 08.56.17_3.jpeg",
+    "extra": "",
+    "datum": "20 maart 2027",
+    "tijd": "20:15",
+    "locatie": "CC De Steiger Boom",
+    "artiesten": "Sopraan: Emma Posman, Tenor: Timothy Veryser, Pianist: Florestan Bataillie",
+    "meer_info_url": "https://desteigerboom.zapcms.voltaweb.be/aria-mania"
   },
   {
     "titel": "Matthäuspassion Beerse - Meerhout",
