@@ -90,16 +90,6 @@
     "meer_info_url": "https://www.ccdeplomblom.org/programma/posman"
   },
   {
-    "titel": "Lohengrin (DEBUUT)",
-    "foto_url": "img/evenementen/images_1.jpg",
-    "extra": "Opera van Wagner - Rol: 1. Brabantische Edle",
-    "datum": "11 maart 2027 - 21 maart 2027",
-    "tijd": "15:00, 18:30",
-    "locatie": "Bijloke Gent, Elisabethzaal Antwerpen",
-    "artiesten": "",
-    "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2026-2027/lohengrin"
-  },
-  {
     "titel": "Concert Koetshuis Gent",
     "foto_url": "img/evenementen/WhatsApp Image 2025-04-23 at 08.56.17_4.jpeg",
     "extra": "tbc",
@@ -108,6 +98,16 @@
     "locatie": "tbc",
     "artiesten": "Sopraan: Emma Posman, Tenor: Timothy Veryser, Pianist: Florestan Bataillie",
     "meer_info_url": "tbc"
+  },
+  {
+    "titel": "Lohengrin (DEBUUT)",
+    "foto_url": "img/evenementen/images_1.jpg",
+    "extra": "Opera van Wagner - Rol: 1. Brabantische Edle",
+    "datum": "11 maart 2027 - 21 maart 2027",
+    "tijd": "15:00, 18:30",
+    "locatie": "Bijloke Gent, Elisabethzaal Antwerpen",
+    "artiesten": "",
+    "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2026-2027/lohengrin"
   },
   {
     "titel": "Aria Mania",
