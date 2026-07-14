@@ -110,16 +110,6 @@
     "meer_info_url": "tbc"
   },
   {
-    "titel": "Messiah - Händel (DEBUUT)",
-    "foto_url": "img/evenementen/images_3.jpg",
-    "extra": "tbc",
-    "datum": "2-3-4 april 2027",
-    "tijd": "tbc",
-    "locatie": "De Haan, Waregem, Concertgebouw Brugge",
-    "artiesten": "Dirigent: Werner Van Mechelen, Euterpe Baroque Consort, Hendrickje Van Kerckhove, Lien Haegeman, Timothy Veryser, Huub Claessens",
-    "meer_info_url": "tbc"
-  },
-  {
     "titel": "Recital met Anna Alvizou - Gent",
     "foto_url": "img/evenementen/bb899df2-feb2-4abc-91f5-5044ca960587_1.jpg",
     "extra": "Ensemble d'Atlántico",
@@ -128,6 +118,16 @@
     "locatie": "Madonna Feestzaal",
     "artiesten": "Anna Alvizou en Timothy Veryser",
     "meer_info_url": ""
+  },
+  {
+    "titel": "Messiah - Händel (DEBUUT)",
+    "foto_url": "img/evenementen/images_3.jpg",
+    "extra": "tbc",
+    "datum": "2-3-4 april 2027",
+    "tijd": "tbc",
+    "locatie": "De Haan, Waregem, Concertgebouw Brugge",
+    "artiesten": "Dirigent: Werner Van Mechelen, Euterpe Baroque Consort, Hendrickje Van Kerckhove, Lien Haegeman, Timothy Veryser, Huub Claessens",
+    "meer_info_url": "tbc"
   },
   {
     "titel": "Cosi fan tutte (DEBUUT)",
