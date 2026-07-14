@@ -10,16 +10,6 @@
     "meer_info_url": "https://www.sintpaulusantwerpen.be/activiteit/orkestmis-voor-maria-tenhemelopneming-4/"
   },
   {
-    "titel": "Cantissimo",
-    "foto_url": "img/evenementen/Wozzeck_Toulouse21_a_MircoMagliocca.jpg",
-    "extra": "Concert met l’Orchestre de l’Opéra Royal de Wallonie-Liège olv Matteo Dal Maso",
-    "datum": "9 oktober 2026",
-    "tijd": "20:00",
-    "locatie": "Wolubilis, Brussel",
-    "artiesten": "Stéphane Degout, Sophie Koch, Solisten Koningin Elisabeth Muziekkapel",
-    "meer_info_url": "https://www.wolubilis.be/a-voir/cantissimo/"
-  },
-  {
     "titel": "Recital met Anna Alvizou - Gent",
     "foto_url": "img/evenementen/bb899df2-feb2-4abc-91f5-5044ca960587_1.jpg",
     "extra": "Ensemble d'Atlántico",
@@ -28,6 +18,16 @@
     "locatie": "Madonna Feestzaal",
     "artiesten": "Anna Alvizou en Timothy Veryser",
     "meer_info_url": ""
+  },
+  {
+    "titel": "Cantissimo",
+    "foto_url": "img/evenementen/Wozzeck_Toulouse21_a_MircoMagliocca.jpg",
+    "extra": "Concert met l’Orchestre de l’Opéra Royal de Wallonie-Liège olv Matteo Dal Maso",
+    "datum": "9 oktober 2026",
+    "tijd": "20:00",
+    "locatie": "Wolubilis, Brussel",
+    "artiesten": "Stéphane Degout, Sophie Koch, Solisten Koningin Elisabeth Muziekkapel",
+    "meer_info_url": "https://www.wolubilis.be/a-voir/cantissimo/"
   },
   {
     "titel": "Herfstconcert Woumen (eigen organisatie)",
