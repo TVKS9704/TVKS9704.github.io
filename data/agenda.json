@@ -120,16 +120,6 @@
     "meer_info_url": "tbc"
   },
   {
-    "titel": "Messiah - Händel (DEBUUT)",
-    "foto_url": "img/evenementen/images_3.jpg",
-    "extra": "tbc",
-    "datum": "2-3-4 april 2027",
-    "tijd": "tbc",
-    "locatie": "De Haan, Waregem, Concertgebouw Brugge",
-    "artiesten": "Dirigent: Werner Van Mechelen, Euterpe Baroque Consort, Hendrickje Van Kerckhove, Lien Haegeman, Timothy Veryser, Huub Claessens",
-    "meer_info_url": "tbc"
-  },
-  {
     "titel": "Johannespassion",
     "foto_url": "img/evenementen/Bach.png",
     "extra": "Evangelist & Tenor-aria's",
@@ -138,6 +128,16 @@
     "locatie": "Geerteskerk Kloetinge",
     "artiesten": "",
     "meer_info_url": "https://www.covgoes.nl/concertinformatie/"
+  },
+  {
+    "titel": "Messiah - Händel (DEBUUT)",
+    "foto_url": "img/evenementen/images_3.jpg",
+    "extra": "tbc",
+    "datum": "2-3-4 april 2027",
+    "tijd": "tbc",
+    "locatie": "De Haan, Waregem, Concertgebouw Brugge",
+    "artiesten": "Dirigent: Werner Van Mechelen, Euterpe Baroque Consort, Hendrickje Van Kerckhove, Lien Haegeman, Timothy Veryser, Huub Claessens",
+    "meer_info_url": "tbc"
   },
   {
     "titel": "Cosi fan tutte (DEBUUT)",
