@@ -110,16 +110,6 @@
     "meer_info_url": "https://desteigerboom.zapcms.voltaweb.be/aria-mania"
   },
   {
-    "titel": "Matthäuspassion Beerse - Meerhout",
-    "foto_url": "img/evenementen/images_2.jpg",
-    "extra": "Tenorsolo in Matthäuspassion",
-    "datum": "25-26 maart 2027",
-    "tijd": "tbc",
-    "locatie": "Beerse en Meerhout",
-    "artiesten": "tbc",
-    "meer_info_url": "tbc"
-  },
-  {
     "titel": "Johannespassion",
     "foto_url": "img/evenementen/Bach.png",
     "extra": "Evangelist & Tenor-aria's",
@@ -128,6 +118,16 @@
     "locatie": "Geerteskerk Kloetinge",
     "artiesten": "",
     "meer_info_url": "https://www.covgoes.nl/concertinformatie/"
+  },
+  {
+    "titel": "Matthäuspassion Beerse - Meerhout",
+    "foto_url": "img/evenementen/images_2.jpg",
+    "extra": "Tenorsolo in Matthäuspassion",
+    "datum": "25-26 maart 2027",
+    "tijd": "tbc",
+    "locatie": "Beerse en Meerhout",
+    "artiesten": "tbc",
+    "meer_info_url": "tbc"
   },
   {
     "titel": "Messiah - Händel (DEBUUT)",
