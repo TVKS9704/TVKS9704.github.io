@@ -130,16 +130,6 @@
     "meer_info_url": "tbc"
   },
   {
-    "titel": "Cosi fan tutte (DEBUUT)",
-    "foto_url": "img/evenementen/images_4.jpg",
-    "extra": "Opera van Mozart - rol: Ferrando",
-    "datum": "11 april 2027",
-    "tijd": "11:00",
-    "locatie": "Opéra Nice Côte d'Azur",
-    "artiesten": "Solisten Koningin Elisabeth Muziekkapel",
-    "meer_info_url": "https://provence-alpes-cotedazur.com/que-faire/sortir/toutes-les-sorties/cosi-fan-tutte-en-famille-nice-fr-6529141/"
-  },
-  {
     "titel": "Johannespassion",
     "foto_url": "img/evenementen/Bach.png",
     "extra": "Evangelist & Tenor-aria's",
@@ -148,5 +138,15 @@
     "locatie": "Geerteskerk Kloetinge",
     "artiesten": "",
     "meer_info_url": "https://www.covgoes.nl/concertinformatie/"
+  },
+  {
+    "titel": "Cosi fan tutte (DEBUUT)",
+    "foto_url": "img/evenementen/images_4.jpg",
+    "extra": "Opera van Mozart - rol: Ferrando",
+    "datum": "11 april 2027",
+    "tijd": "11:00",
+    "locatie": "Opéra Nice Côte d'Azur",
+    "artiesten": "Solisten Koningin Elisabeth Muziekkapel",
+    "meer_info_url": "https://provence-alpes-cotedazur.com/que-faire/sortir/toutes-les-sorties/cosi-fan-tutte-en-famille-nice-fr-6529141/"
   }
 ]
