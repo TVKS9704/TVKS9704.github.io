@@ -1,15 +1,5 @@
 [
   {
-    "titel": "Opera Avanti",
-    "foto_url": "img/evenementen/Academiezaal StTruiden.png",
-    "extra": "Spaanse passie in Wiener café",
-    "datum": "4 oktober 2026",
-    "tijd": "14:30",
-    "locatie": "Academiezaal, Sint-Truiden",
-    "artiesten": "Karen Vermeiren, Sopraan; Cécile Lastchenko, mezzosopraan; Timothy Veryser, tenor ea",
-    "meer_info_url": "https://www.debogaard.be/activiteiten/opera-avanti-spaanse-passie-in-wiener-cafe"
-  },
-  {
     "titel": "Orkestmis Moederkesdag",
     "foto_url": "img/evenementen/The_Assumption_of_Virgin_Mary_-_Guido_Reni_(unframed)_2.jpg",
     "extra": "Charles Gounod: Messe solennelle de Sainte-Cécile",
@@ -18,6 +8,16 @@
     "locatie": "Sint-Antoniuskerk, Antwerpen",
     "artiesten": "Dirigent: Paul Dinneweth, Sopraan: An De Ridder, Tenor: Timothy Veryser, Bas: Charles Dekeyser",
     "meer_info_url": "https://www.sintpaulusantwerpen.be/activiteit/orkestmis-voor-maria-tenhemelopneming-4/"
+  },
+  {
+    "titel": "Opera Avanti",
+    "foto_url": "img/evenementen/Academiezaal StTruiden.png",
+    "extra": "Spaanse passie in Wiener café",
+    "datum": "4 oktober 2026",
+    "tijd": "14:30",
+    "locatie": "Academiezaal, Sint-Truiden",
+    "artiesten": "Karen Vermeiren, Sopraan; Cécile Lastchenko, mezzosopraan; Timothy Veryser, tenor ea",
+    "meer_info_url": "https://www.debogaard.be/activiteiten/opera-avanti-spaanse-passie-in-wiener-cafe"
   },
   {
     "titel": "Recital met Anna Alvizou - Gent",
