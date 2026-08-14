@@ -120,16 +120,6 @@
     "meer_info_url": "https://desteigerboom.zapcms.voltaweb.be/aria-mania"
   },
   {
-    "titel": "Matthäuspassion Beerse - Meerhout",
-    "foto_url": "img/evenementen/images_2.jpg",
-    "extra": "Tenorsolo in Matthäuspassion",
-    "datum": "25-26 maart 2027",
-    "tijd": "tbc",
-    "locatie": "Beerse en Meerhout",
-    "artiesten": "tbc",
-    "meer_info_url": "tbc"
-  },
-  {
     "titel": "Opera Avanti",
     "foto_url": "img/evenementen/Academiezaal StTruiden.png",
     "extra": "Spaanse passie in Wiener café",
@@ -138,6 +128,16 @@
     "locatie": "Academiezaal, Sint-Truiden",
     "artiesten": "Karen Vermeiren, Sopraan; Cécile Lastchenko, mezzosopraan; Timothy Veryser, tenor ea",
     "meer_info_url": "https://www.debogaard.be/activiteiten/opera-avanti-spaanse-passie-in-wiener-cafe"
+  },
+  {
+    "titel": "Matthäuspassion Beerse - Meerhout",
+    "foto_url": "img/evenementen/images_2.jpg",
+    "extra": "Tenorsolo in Matthäuspassion",
+    "datum": "25-26 maart 2027",
+    "tijd": "tbc",
+    "locatie": "Beerse en Meerhout",
+    "artiesten": "tbc",
+    "meer_info_url": "tbc"
   },
   {
     "titel": "Messiah - Händel (DEBUUT)",
