@@ -110,16 +110,6 @@
     "meer_info_url": "https://www.covgoes.nl/concertinformatie/"
   },
   {
-    "titel": "Aria Mania",
-    "foto_url": "img/evenementen/WhatsApp Image 2025-04-23 at 08.56.17_3.jpeg",
-    "extra": "",
-    "datum": "20 maart 2027",
-    "tijd": "20:15",
-    "locatie": "CC De Steiger Boom",
-    "artiesten": "Sopraan: Emma Posman, Tenor: Timothy Veryser, Pianist: Florestan Bataillie",
-    "meer_info_url": "https://desteigerboom.zapcms.voltaweb.be/aria-mania"
-  },
-  {
     "titel": "Opera Avanti",
     "foto_url": "img/evenementen/Academiezaal StTruiden.png",
     "extra": "Spaanse passie in Wiener café",
@@ -128,6 +118,16 @@
     "locatie": "Academiezaal, Sint-Truiden",
     "artiesten": "Karen Vermeiren, Sopraan; Cécile Lastchenko, mezzosopraan; Timothy Veryser, tenor ea",
     "meer_info_url": "https://www.debogaard.be/activiteiten/opera-avanti-spaanse-passie-in-wiener-cafe"
+  },
+  {
+    "titel": "Aria Mania",
+    "foto_url": "img/evenementen/WhatsApp Image 2025-04-23 at 08.56.17_3.jpeg",
+    "extra": "",
+    "datum": "20 maart 2027",
+    "tijd": "20:15",
+    "locatie": "CC De Steiger Boom",
+    "artiesten": "Sopraan: Emma Posman, Tenor: Timothy Veryser, Pianist: Florestan Bataillie",
+    "meer_info_url": "https://desteigerboom.zapcms.voltaweb.be/aria-mania"
   },
   {
     "titel": "Matthäuspassion Beerse - Meerhout",
