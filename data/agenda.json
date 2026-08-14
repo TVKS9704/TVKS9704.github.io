@@ -90,16 +90,6 @@
     "meer_info_url": "https://www.ccdeplomblom.org/programma/posman"
   },
   {
-    "titel": "Lohengrin (DEBUUT)",
-    "foto_url": "img/evenementen/images_1.jpg",
-    "extra": "Opera van Wagner - Rol: 1. Brabantische Edle",
-    "datum": "11 maart 2027 - 21 maart 2027",
-    "tijd": "15:00, 18:30",
-    "locatie": "Bijloke Gent, Elisabethzaal Antwerpen",
-    "artiesten": "",
-    "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2026-2027/lohengrin"
-  },
-  {
     "titel": "Opera Avanti",
     "foto_url": "img/evenementen/Academiezaal StTruiden.png",
     "extra": "Spaanse passie in Wiener café",
@@ -108,6 +98,16 @@
     "locatie": "Academiezaal, Sint-Truiden",
     "artiesten": "Karen Vermeiren, Sopraan; Cécile Lastchenko, mezzosopraan; Timothy Veryser, tenor ea",
     "meer_info_url": "https://www.debogaard.be/activiteiten/opera-avanti-spaanse-passie-in-wiener-cafe"
+  },
+  {
+    "titel": "Lohengrin (DEBUUT)",
+    "foto_url": "img/evenementen/images_1.jpg",
+    "extra": "Opera van Wagner - Rol: 1. Brabantische Edle",
+    "datum": "11 maart 2027 - 21 maart 2027",
+    "tijd": "15:00, 18:30",
+    "locatie": "Bijloke Gent, Elisabethzaal Antwerpen",
+    "artiesten": "",
+    "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2026-2027/lohengrin"
   },
   {
     "titel": "Johannespassion",
