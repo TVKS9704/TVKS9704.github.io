@@ -100,16 +100,6 @@
     "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2026-2027/lohengrin"
   },
   {
-    "titel": "Johannespassion",
-    "foto_url": "img/evenementen/Bach.png",
-    "extra": "Evangelist & Tenor-aria's",
-    "datum": "13 maart 2027",
-    "tijd": "TBA",
-    "locatie": "Geerteskerk Kloetinge",
-    "artiesten": "",
-    "meer_info_url": "https://www.covgoes.nl/concertinformatie/"
-  },
-  {
     "titel": "Opera Avanti",
     "foto_url": "img/evenementen/Academiezaal StTruiden.png",
     "extra": "Spaanse passie in Wiener café",
@@ -118,6 +108,16 @@
     "locatie": "Academiezaal, Sint-Truiden",
     "artiesten": "Karen Vermeiren, Sopraan; Cécile Lastchenko, mezzosopraan; Timothy Veryser, tenor ea",
     "meer_info_url": "https://www.debogaard.be/activiteiten/opera-avanti-spaanse-passie-in-wiener-cafe"
+  },
+  {
+    "titel": "Johannespassion",
+    "foto_url": "img/evenementen/Bach.png",
+    "extra": "Evangelist & Tenor-aria's",
+    "datum": "13 maart 2027",
+    "tijd": "TBA",
+    "locatie": "Geerteskerk Kloetinge",
+    "artiesten": "",
+    "meer_info_url": "https://www.covgoes.nl/concertinformatie/"
   },
   {
     "titel": "Aria Mania",
