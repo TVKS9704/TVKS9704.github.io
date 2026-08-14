@@ -10,16 +10,6 @@
     "meer_info_url": "https://www.sintpaulusantwerpen.be/activiteit/orkestmis-voor-maria-tenhemelopneming-4/"
   },
   {
-    "titel": "Recital met Anna Alvizou - Gent",
-    "foto_url": "img/evenementen/20-09 EDA & friends.jpg",
-    "extra": "Ensemble d'Atlántico",
-    "datum": "20 september 2027",
-    "tijd": "11:00",
-    "locatie": "Madonna Feestzaal",
-    "artiesten": "Anna Alvizou en Timothy Veryser",
-    "meer_info_url": "https://fienta.com/nl/ensemble-d-atlantico-friends-2"
-  },
-  {
     "titel": "Opera Avanti",
     "foto_url": "img/evenementen/Academiezaal StTruiden.png",
     "extra": "Spaanse passie in Wiener café",
@@ -28,6 +18,16 @@
     "locatie": "Academiezaal, Sint-Truiden",
     "artiesten": "Karen Vermeiren, Sopraan; Cécile Lastchenko, mezzosopraan; Timothy Veryser, tenor ea",
     "meer_info_url": "https://www.debogaard.be/activiteiten/opera-avanti-spaanse-passie-in-wiener-cafe"
+  },
+  {
+    "titel": "Recital met Anna Alvizou - Gent",
+    "foto_url": "img/evenementen/20-09 EDA & friends.jpg",
+    "extra": "Ensemble d'Atlántico",
+    "datum": "20 september 2027",
+    "tijd": "11:00",
+    "locatie": "Madonna Feestzaal",
+    "artiesten": "Anna Alvizou en Timothy Veryser",
+    "meer_info_url": "https://fienta.com/nl/ensemble-d-atlantico-friends-2"
   },
   {
     "titel": "Cantissimo",
