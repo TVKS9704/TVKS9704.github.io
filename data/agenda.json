@@ -130,16 +130,6 @@
     "meer_info_url": "tbc"
   },
   {
-    "titel": "Messiah - Händel (DEBUUT)",
-    "foto_url": "img/evenementen/Händel.png",
-    "extra": "tbc",
-    "datum": "2-3-4 april 2027",
-    "tijd": "tbc",
-    "locatie": "De Haan, Waregem, Concertgebouw Brugge",
-    "artiesten": "Dirigent: Werner Van Mechelen, Euterpe Baroque Consort, Hendrickje Van Kerckhove, Lien Haegeman, Timothy Veryser, Huub Claessens",
-    "meer_info_url": "tbc"
-  },
-  {
     "titel": "Opera Avanti",
     "foto_url": "img/evenementen/Academiezaal StTruiden.png",
     "extra": "Spaanse passie in Wiener café",
@@ -148,6 +138,16 @@
     "locatie": "Academiezaal, Sint-Truiden",
     "artiesten": "Karen Vermeiren, Sopraan; Cécile Lastchenko, mezzosopraan; Timothy Veryser, tenor ea",
     "meer_info_url": "https://www.debogaard.be/activiteiten/opera-avanti-spaanse-passie-in-wiener-cafe"
+  },
+  {
+    "titel": "Messiah - Händel (DEBUUT)",
+    "foto_url": "img/evenementen/Händel.png",
+    "extra": "tbc",
+    "datum": "2-3-4 april 2027",
+    "tijd": "tbc",
+    "locatie": "De Haan, Waregem, Concertgebouw Brugge",
+    "artiesten": "Dirigent: Werner Van Mechelen, Euterpe Baroque Consort, Hendrickje Van Kerckhove, Lien Haegeman, Timothy Veryser, Huub Claessens",
+    "meer_info_url": "tbc"
   },
   {
     "titel": "Cosi fan tutte (DEBUUT)",
