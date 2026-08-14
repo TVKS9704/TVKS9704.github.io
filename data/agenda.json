@@ -60,16 +60,6 @@
     "meer_info_url": "https://www.brusselschoralsociety.com/nl/concertagenda/"
   },
   {
-    "titel": "La Traviata (DEBUUT)",
-    "foto_url": "img/evenementen/a5cP6000004eNy6IAE_1740x1218.jpg",
-    "extra": "Opera Ballet Vlaanderen - Rol: Gastone - 12 performances",
-    "datum": "13 december 2026 - 09 januari 2027",
-    "tijd": "15:00, 18:00, 20:00",
-    "locatie": "Opera Antwerpen",
-    "artiesten": "",
-    "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2026-2027/la-traviata"
-  },
-  {
     "titel": "Opera Avanti",
     "foto_url": "img/evenementen/Academiezaal StTruiden.png",
     "extra": "Spaanse passie in Wiener café",
@@ -78,6 +68,16 @@
     "locatie": "Academiezaal, Sint-Truiden",
     "artiesten": "Karen Vermeiren, Sopraan; Cécile Lastchenko, mezzosopraan; Timothy Veryser, tenor ea",
     "meer_info_url": "https://www.debogaard.be/activiteiten/opera-avanti-spaanse-passie-in-wiener-cafe"
+  },
+  {
+    "titel": "La Traviata (DEBUUT)",
+    "foto_url": "img/evenementen/a5cP6000004eNy6IAE_1740x1218.jpg",
+    "extra": "Opera Ballet Vlaanderen - Rol: Gastone - 12 performances",
+    "datum": "13 december 2026 - 09 januari 2027",
+    "tijd": "15:00, 18:00, 20:00",
+    "locatie": "Opera Antwerpen",
+    "artiesten": "",
+    "meer_info_url": "https://www.operaballet.be/nl/programma/seizoen-2026-2027/la-traviata"
   },
   {
     "titel": "Der Schmied von Gent (DEBUUT)",
