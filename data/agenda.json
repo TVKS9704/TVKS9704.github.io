@@ -20,16 +20,6 @@
     "meer_info_url": "https://fienta.com/nl/ensemble-d-atlantico-friends-2"
   },
   {
-    "titel": "Cantissimo",
-    "foto_url": "img/evenementen/Wozzeck_Toulouse21_a_MircoMagliocca.jpg",
-    "extra": "Concert met l’Orchestre de l’Opéra Royal de Wallonie-Liège olv Matteo Dal Maso",
-    "datum": "9 oktober 2026",
-    "tijd": "20:00",
-    "locatie": "Wolubilis, Brussel",
-    "artiesten": "Stéphane Degout, Sophie Koch, Solisten Koningin Elisabeth Muziekkapel",
-    "meer_info_url": "https://www.wolubilis.be/a-voir/cantissimo/"
-  },
-  {
     "titel": "Opera Avanti",
     "foto_url": "img/evenementen/Academiezaal StTruiden.png",
     "extra": "Spaanse passie in Wiener café",
@@ -38,6 +28,16 @@
     "locatie": "Academiezaal, Sint-Truiden",
     "artiesten": "Karen Vermeiren, Sopraan; Cécile Lastchenko, mezzosopraan; Timothy Veryser, tenor ea",
     "meer_info_url": "https://www.debogaard.be/activiteiten/opera-avanti-spaanse-passie-in-wiener-cafe"
+  },
+  {
+    "titel": "Cantissimo",
+    "foto_url": "img/evenementen/Wozzeck_Toulouse21_a_MircoMagliocca.jpg",
+    "extra": "Concert met l’Orchestre de l’Opéra Royal de Wallonie-Liège olv Matteo Dal Maso",
+    "datum": "9 oktober 2026",
+    "tijd": "20:00",
+    "locatie": "Wolubilis, Brussel",
+    "artiesten": "Stéphane Degout, Sophie Koch, Solisten Koningin Elisabeth Muziekkapel",
+    "meer_info_url": "https://www.wolubilis.be/a-voir/cantissimo/"
   },
   {
     "titel": "Herfstconcert Woumen (eigen organisatie)",
